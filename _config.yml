@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "HKU-ECT blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "hku-ect"
+description              : "A blog documenting our adventures in the realm of creative technology"
+url                      : https://hku-ect.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /hku-ect.github.io # the subpath of your site, e.g. "/blog"
+repository               : hku-ect/hku-ect.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "hku-ect moderator"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "center of expertise for creative technoloyg"
+  location         : "Utrecht, Nehterlands"
   email            :
-  uri              :
+  uri              : "https://www.hku.nl/OnderzoekEnExpertise/Expertisecentra/ExpertisecentrumCreatieveTechnologie.htm"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -113,11 +113,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/hku-ect"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/hkutech/"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -269,3 +269,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
