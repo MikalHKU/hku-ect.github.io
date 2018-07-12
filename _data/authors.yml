@@ -1,0 +1,15 @@
+# /_data/authors.yml
+
+Machiel Veltkamp:
+  name: "Machiel Veltkamp"
+  uri: "https://github.com/ikbenmacje"
+  email: "machiel.veltkamp@hku.nl"
+  avatar: "/assets/images/avat_machiel.jpg"
+  twitter: "machiel_v"
+
+Arnaud Loonstra:
+  name: "Arnaud Loonstra"
+  email: "arnaud.loonstra@hku.nl"
+  url: https://github.com/sphaero
+  avatar: "/assets/images/avat_sphaero.png"
+  twitter: "sphaero"

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HKU-ECT blog"
+title                    : "HKU Centre for Creative Technology blog"
 title_separator          : "-"
 name                     : "hku-ect"
 description              : "A blog documenting our adventures in the realm of creative technology"
@@ -58,8 +58,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "hku-ect moderator"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "hku-ect"
+  avatar           : assets/images/IMG_9763.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "center of expertise for creative technoloyg"
-  location         : "Utrecht, Nehterlands"
+  location         : "Utrecht, Netherlands"
   email            :
   uri              : "https://www.hku.nl/OnderzoekEnExpertise/Expertisecentra/ExpertisecentrumCreatieveTechnologie.htm"
   home             : # null (default), "absolute or relative url to link to author home"
