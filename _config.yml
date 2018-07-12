@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HKU Centre for Creative Technology blog"
+title                    : "HKU Centre for Creative Technology"
 title_separator          : "-"
 name                     : "hku-ect"
 description              : "A blog documenting our adventures in the realm of creative technology"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "hku-ect"
+  name             : "HKU ECT"
   avatar           : assets/images/IMG_9763.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "center of expertise for creative technoloyg"
+  bio              : "Experimenting with technology in the context of art and creativity."
   location         : "Utrecht, Netherlands"
   email            :
   uri              : "https://www.hku.nl/OnderzoekEnExpertise/Expertisecentra/ExpertisecentrumCreatieveTechnologie.htm"

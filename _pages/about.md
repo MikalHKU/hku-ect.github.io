@@ -7,7 +7,7 @@ excerpt: "What is the centre for creative technology?"
 
 
 
-{% include figure image_path="/assets/images/IMG_9991.jpg" alt="working desk ath the ECT" caption="ECT at work, tinkering and with technology." %}
+{% include figure image_path="/assets/images/IMG_9991.jpg" alt="working desk ath the ECT" caption="ECT at work, tinkering and tampering with technology." %}
 
 Whether it concerns virtual reality, motion capture, sensors, sound design, robots or 3D printers: technological developments make new forms of art creation and experience possible. The Centre for Creative Technology (ECT) examines these developments, outlines possibilities and shares knowledge and experience in the field of technology in relation to art and creativity.
 
