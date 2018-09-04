@@ -25,7 +25,7 @@ This post give an overview of different (online) stores you can use to buy what 
 * https://www.sossolutions.nl/
 * https://hackerstore.nl/
 * https://www.conrad.nl/ *Sometimes a bit expensive*
-* https://www.antratek.nl/ *veel sensoren*
+* https://www.antratek.nl/ *many sensors*
 * https://nl.rs-online.com *Big, big range of products*
 * http://nl.farnell.com/ *Quick, reliable and professional*
 * https://www.kiwi-electronics.nl *Good for RaspberryPi stuff*
