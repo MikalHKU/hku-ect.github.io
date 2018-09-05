@@ -6,6 +6,11 @@
    Typography
    ========================================================================== */
 
+@font-face {
+   font-family: HKU_Font;
+   src: url(lineto-brownpro-regular.woff);
+}
+
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
@@ -14,8 +19,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif:HKU_Font !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
