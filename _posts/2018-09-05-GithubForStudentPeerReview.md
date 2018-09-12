@@ -46,7 +46,7 @@ This on its own works well enough, but it's a huge hassle to manually check if s
  * We count the amount of pull-requests students have done, and indicate that if there is no work to review, students should first ask those with the least PR's to submit work.
  * We calculate a score for each student. The calculation is: ( amount-of-reviews + "likes"-received-for-comments ) * number-of-unique-students-reviewed
  
- {% include figure image_path="/assets/images/student_statistics.png" alt="student stats for week1" caption="student stats for week1" %}
+{% include figure image_path="/assets/images/student_statistics.png" alt="student stats for week 1 (including their often hilariously inappropriate names)" caption="student stats for week 1 (including their often hilariously inappropriate names)" %}
  
 Especially the last part, how we calculate the score, (hopefully) pushes students to try to give constructive and useful feedback, and review as many different people as possible (avoiding the development of fixed feedback cliques that tend to leave out struggling students). At the end of a certain period, we'll give the top-3 students a prize. What exactly is still being discussed, but the idea is that it is only valuable when shared (just to drive the point home).
 
