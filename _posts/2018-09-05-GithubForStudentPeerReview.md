@@ -40,7 +40,7 @@ Finally, there's a didactical approach to the whole thing. The only thing studen
 {% include figure image_path="/assets/images/pull-requests.png" alt="Pull request overview" caption="Pull request overview" %}
 
 # Automated statistics for gamified didactics
-This on its own works well enough, but it's a huge hassle to manually check if students have done the two reviews per week, or to keep tabs on how well they're doing and perhaps even nudge them towards positive behaviours. Luckily, github contains a REST API, that allows you to request information through HTTP GET requests. These return JSON, simple structured data in a standardized text-format, which you can then parse. There are a few key things we measure and signal back to students:
+This on its own works well enough, but it's a huge hassle to manually check if students have done the two reviews per week, or to keep tabs on how well they're doing and perhaps even nudge them towards positive behaviours. Luckily, github contains a [REST API](https://developer.github.com/v3/), that allows you to request information through HTTP GET requests. These return JSON, simple structured data in a standardized text-format, which you can then parse. There are a few key things we measure and signal back to students:
 
  * We count the amount of reviews done, and indicate the "target" for the current week. These are posted as a group, so all students see each other's data.
  * We count the amount of pull-requests students have done, and indicate that if there is no work to review, students should first ask those with the least PR's to submit work.
