@@ -1,12 +1,3 @@
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
-
 ---
 title: "Using Github for Student Peer Reviews"
 excerpt: "Teaching development students to work together using github pull-requests as a peer-review tool"
@@ -20,6 +11,15 @@ tags:
   - development
   - didactics
 ---
+
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
 
 # Using github to teach github and best practices
 During last year's review of the development courses I teach at Games and Interaction, we felt students hadn't been pushed to work together enough (they formed small cliques, and certain students would be left behind), and some of them hadn't taken github to heart (even though they had handed in all their assignments through it), or had trouble understanding what they were doing and why they were using it at all.
