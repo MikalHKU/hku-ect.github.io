@@ -58,7 +58,7 @@ Once it's setup and functional, it'll look something like this:
 
 And we can monitor that this works correctly by opening the vJoy Monitor application:
 
-{% include figure image_path="/assets/images/input-emu_vjoy-mon.gif." alt="vJoy Monitor" caption="vJoy Monitor" %}
+{% include figure image_path="/assets/images/input-emu_vjoy-mon.gif" alt="vJoy Monitor" caption="vJoy Monitor" %}
 
 # GlovePIE to put it all together
 Finally, we're ready to actually start emulating the mouse. I was happy to discover GlovePIE still works for the most part, although audio input seems to be broken. But for joysticks, mice and (hopefully) kinect it should be functional.
