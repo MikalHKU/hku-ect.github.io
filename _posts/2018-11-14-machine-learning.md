@@ -31,23 +31,41 @@ In het volgende gedeelte worden de verschillende bouwstenen, alsmede applicaties
 ## Smile or Else
 Deze processing-applicatie is een lichte aanpassing op Andreas Refsgaard's PhotoBooth toepassing, met vooral extra visuals bovenop de bestaande functionaliteit.
 De applicatie reageert op OSC berichten "/wek/outputs" waarbij de geaccepteerde waardes 1 & 2 zijn.
-De waardes worden gegenereerd door een combinatie van FaceOSC (als feature extractor van de camera-input) in combinatie met Wekinator. 
+De waardes worden gegenereerd door een combinatie van FaceOSC (als zogeheten "feature extractor" van de camera-input) in combinatie met Wekinator. 
 Wekinator is daarbij getraind op neutrale (en andere) gezichten (voor waarde "1") en specifiek op verschillende lachende gezichten (value 2)
-Op deze manier kan deze applicatie een foto schieten wanneer iemand lacht (smile) en blijft de 'Photo Booth' 'stil' bij andere gelaatsuitdrukkingen (or else :) 
-Webcam 
-FaceOSC (een OpenFrameworks applicatie, welke gebruik van OpenCV bibliotheek)
-Wekinator 
-Processing-toepassing om webcam te laten zien, alsmede foto te schieten en te laten zien
+Op deze manier kan deze applicatie een foto schieten wanneer iemand lacht (smile) en blijft de 'Photo Booth' 'stil' bij andere gelaatsuitdrukkingen ("or else" :) 
+In het diagram (zie afbeelding) wordt de installatie uitgelegd als:
+1. Webcam als input. De Webcam stuurt 'ruwe videodata' uit.
+
+2. FaceTracker2OSC. FaceTracker2OSC is een OpenFrameworks applicatie, welke gebruik van OpenCV bibliotheek en ingezet wordt als een feature extractor. 
+Een feature extractor is te zien als een filter om bepaalde informatie, zoals patronen, te halen uit een bepaalde datastroom, om in dit geval een kunstmatige intelligentie te trainen. Het trainen van een neuraal netwerk op de ruwe video-data zou een veel ingewikkeldere toepassing worden.
+Vergelijk alleen al de 640 x 480 pixels resolutie x 3 kanalen aan input (miljoen inputs) met de 136 waardes (68 xy-punten) die de gezichtsdata 'samenvatten'... Daar zijn de in de SoapShop gebruikte kunstmatige intelligentie algoritmes een stuk eenvoudiger en eenduidiger op te trainen.
+FaceTracker2OSC is een variatie op FaceOSC en te verkrijgen via https://github.com/genekogan/osc-modules/tree/master/FaceTracker2OSC 
+ 
+3. Wekinator. Wekinator is te zien als een suite aan kunstmatige intelligentie algoritmes, waarbij vrij gemakkelijk en gebruikersvriendelijk verschillende vormen van classificatie- en regressie-algoritmes ingezet kunnen worden om op OSC-date getraind te worden en vervolgens voorspellingen te doen (output) aan de hand van nieuwe data (input).
+
+4. Processing-toepassing "Smile or Else" om webcam te laten zien, alsmede foto te schieten en te laten zien.
+Deze processing-applicatie is een lichte aanpassing op Andreas Refsgaard's PhotoBooth toepassing, met vooral extra visuals bovenop de bestaande functionaliteit. 
+De applicatie is te verkrijgen via https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning 
 
 
 
 ## Pong
 Voor Pong werd een bestaande toepassing (van Limulo.net ) aangepast, zodat deze geschikt werd voor een koppeling aan een OSC-stroom vanuit Wekinator en derhalve over een netwerk gespeeld kan worden.
 In Wekinator stelde het team wat ging spelen als OSC output dan in : "/wek/player1" resp. "/wek/player2" voor variabele oscTeam1, of oscTeam2 
-
+Zie : https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning
  
 
 ## Style Transfer 
+Op een eigen ECT-server werd een zogeheten fast-style-transfer algoritme voorbereid waarbij de afbeeldingen gemaakt door de 'Smile or Else'-applicatie werden 'gestijl-transformeert' middels een voorgetraind convolutie (neuraal) netwerk.
+
+Afbeeldingen kunnen een goede manier zijn om ons verschillende perspectieven te bieden om naar dingen te kijken. Soms leidt het bewerken / toevoegen van  een bepaalde "stijl" aan een bepaalde afbeelding tot iets bijzonders. Met het doel om 'iets nieuws' te creeëren , is relatief recent gewerkt aan het concept van een "Fast Style Transfer", dat werkt met Tensorflow (een specifieke bibliotheek voor Kunstmatige intelligentie).
+In de Fast Style Transfer wordt de beschrijving van één afbeelding gecombineerd met de stijl(analyse) van een ander beeld via convolutional neural networks. Fast Style-Transfer voegt stijlen van een aantal beroemde schilderijen toe aan een afbeelding, waardoor het een heel nieuw 'kunstwerk' wordt. De neurale netwerken zijn reeds getraind en in deze SoapShopSessie maakten we gebruik van deze voorgetrainde netwerken, 'modellen' geheten (bestanden met de extensie ckpt, wat staat voor een 'checkpoint' in de training van het netwerk).
+Meer informatie over deze techniek is oa te vinden op:
+https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/
+
+Een repository van de fast style transfer network zoals gebruikt in de SoapShopSessie is te vinden op:
+https://github.com/lengstrom/fast-style-transfer 
 
 
 
@@ -56,7 +74,7 @@ In Wekinator stelde het team wat ging spelen als OSC output dan in : "/wek/playe
 Meer informatie op:
 
 * Playlist met AI muziek bij binnenkomst: ( https://youtu.be/TqH6ionF94I ) 
-* handige links rondom de SoapShopSessie : ( http://home.hku.nl/~than.vannispen/soapshop-nr-1/ ) 
+* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : ( http://home.hku.nl/~than.vannispen/soapshop-nr-1/ ) 
 * algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: ( https://projectcamp.us/projects/ai-machine-learning/items ) 
 
 
