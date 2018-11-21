@@ -35,7 +35,7 @@ De waardes worden gegenereerd door een combinatie van FaceOSC (als zogeheten "fe
 Wekinator is daarbij getraind op neutrale (en andere) gezichten (voor waarde "1") en specifiek op verschillende lachende gezichten (value 2)
 Op deze manier kan deze applicatie een foto schieten wanneer iemand lacht (smile) en blijft de 'Photo Booth' 'stil' bij andere gelaatsuitdrukkingen ("or else" :) 
 
-{% include figure image_path="/assets/images/Smile-or-Else-diagram.png" alt="Smile-or-Else-diagram" caption="Smile or Else diagram" %}
+![Smile-or-Else diagram](/assets/images/Smile-or-Else-diagram.png)
 
 In het diagram (zie afbeelding) wordt de installatie uitgelegd als:
 
@@ -53,9 +53,7 @@ FaceTracker2OSC is een variatie op FaceOSC en te verkrijgen via https://github.c
 Deze processing-applicatie is een lichte aanpassing op Andreas Refsgaard's PhotoBooth toepassing, met vooral extra visuals bovenop de bestaande functionaliteit. 
 De applicatie is te verkrijgen via https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning 
 
-{% include figure image_path="/assets/images/IMG_8264-Than-Smile-or-Else.JPG" alt="Smile-or-Else demo" caption="Than looks at Smile or Else installation" %}
- 
-
+![Smile-or-Else demo](/assets/images/IMG_8264-Than-Smile-or-Else.JPG)
 
 
 ## Pong
