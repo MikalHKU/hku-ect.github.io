@@ -34,7 +34,12 @@ De applicatie reageert op OSC berichten "/wek/outputs" waarbij de geaccepteerde 
 De waardes worden gegenereerd door een combinatie van FaceOSC (als zogeheten "feature extractor" van de camera-input) in combinatie met Wekinator. 
 Wekinator is daarbij getraind op neutrale (en andere) gezichten (voor waarde "1") en specifiek op verschillende lachende gezichten (value 2)
 Op deze manier kan deze applicatie een foto schieten wanneer iemand lacht (smile) en blijft de 'Photo Booth' 'stil' bij andere gelaatsuitdrukkingen ("or else" :) 
+
+{% include figure image_path="/assets/images/Smile-or-Else-diagram.png" alt="Smile-or-Else-diagram" caption="Smile or Else diagram" %}
+
 In het diagram (zie afbeelding) wordt de installatie uitgelegd als:
+
+
 1. Webcam als input. De Webcam stuurt 'ruwe videodata' uit.
 
 2. FaceTracker2OSC. FaceTracker2OSC is een OpenFrameworks applicatie, welke gebruik van OpenCV bibliotheek en ingezet wordt als een feature extractor. 
@@ -47,6 +52,9 @@ FaceTracker2OSC is een variatie op FaceOSC en te verkrijgen via https://github.c
 4. Processing-toepassing "Smile or Else" om webcam te laten zien, alsmede foto te schieten en te laten zien.
 Deze processing-applicatie is een lichte aanpassing op Andreas Refsgaard's PhotoBooth toepassing, met vooral extra visuals bovenop de bestaande functionaliteit. 
 De applicatie is te verkrijgen via https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning 
+
+{% include figure image_path="/assets/images/IMG_8264-Than-Smile-or-Else.JPG" alt="Smile-or-Else demo" caption="Than looks at Smile or Else installation" %}
+ 
 
 
 
