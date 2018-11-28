@@ -2,6 +2,13 @@
 title: "SoapShopSessie #1 BLOG, plus 'making of'"
 excerpt: "Aan de slag met Kunstmatige intelligentie"
 author: Than van Nispen
+
+header:
+  overlay_image: /assets/images/IMG_6686.jpg
+  image_description: "Exploring different bio data sensors"
+  teaser: /assets/images/IMG_6686.jpg
+
+
 tags: 
   - artificial intelligence
   - SoapShopSessie
