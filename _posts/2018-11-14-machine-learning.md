@@ -55,6 +55,7 @@ De applicatie reageert op OSC berichten "/wek/outputs" waarbij de geaccepteerde 
 De waardes worden gegenereerd door een combinatie van FaceOSC (als zogeheten "feature extractor" van de camera-input) in combinatie met Wekinator. 
 Wekinator is daarbij getraind op neutrale (en andere) gezichten (voor waarde "1") en specifiek op verschillende lachende gezichten (value 2)
 Op deze manier kan deze applicatie een foto schieten wanneer iemand lacht (smile) en blijft de 'Photo Booth' 'stil' bij andere gelaatsuitdrukkingen ("or else" :) 
+<img src="{{ "/blog/assets/images/Smile-or-Else-diagram.png" | relative_url }}" width="400" class="align-left">
 
 ![Smile-or-Else diagram](/blog/assets/images/Smile-or-Else-diagram.png)
 
@@ -92,7 +93,7 @@ Meer informatie over deze techniek is oa te vinden op:
 ( https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/ )
 
 Een repository van de fast style transfer network zoals gebruikt in de SoapShopSessie is te vinden op:
-( https://github.com/lengstrom/fast-style-transfer )
+[alt](https://github.com/lengstrom/fast-style-transfer)
 
 
 
@@ -100,9 +101,9 @@ Een repository van de fast style transfer network zoals gebruikt in de SoapShopS
 
 Meer informatie op:
 
-* Playlist met AI muziek bij binnenkomst: (https://youtu.be/TqH6ionF94I) 
-* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : (http://home.hku.nl/~than.vannispen/soapshop-nr-1/) 
-* algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: (https://projectcamp.us/projects/ai-machine-learning/items) 
+* Playlist met AI muziek bij binnenkomst: [](https://youtu.be/TqH6ionF94I) 
+* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : [tekst](http://home.hku.nl/~than.vannispen/soapshop-nr-1/) 
+* algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: [tekst](https://projectcamp.us/projects/ai-machine-learning/items) 
 
 
 
