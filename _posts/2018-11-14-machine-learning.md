@@ -47,7 +47,7 @@ Als afsluiter kregen de deelnemers de foto van zichzelf (lachend) toegestuurd we
 
 # making of SoapShopSessie #1 
 De opzet van de SoapShopSessie en gebruik van applicaties was niet mogelijk geweest zonder de inspiratie en vele bijdragen van Gene Kogan & Andreas Refsgaard (zie oa het verslag van Report ML4A @ CCU van Juni 2018) en Rebecca Fiebrink (zie de overige links naar cursussen ed), alsmede Christobal Valenzuela van Runway, maar vooral de bijdragen van collega’s van het ECT, Machiel Veltkamp en Arnaud Loonstra.
-In het volgende gedeelte worden de verschillende bouwstenen, alsmede applicaties toegelicht om de SoapShopSessie als het ware te kunnen reproduceren. De beschreven toepassingen zijn terug te vinden op de GitHub van het ECT via : [SoapShopSession] (https://github.com/hku-ect/SoapShopSessions )
+In het volgende gedeelte worden de verschillende bouwstenen, alsmede applicaties toegelicht om de SoapShopSessie als het ware te kunnen reproduceren. De beschreven toepassingen zijn terug te vinden op de GitHub van het ECT via : [SoapShopSession](https://github.com/hku-ect/SoapShopSessions)
 
 ## Smile or Else
 Deze processing-applicatie is een lichte aanpassing op Andreas Refsgaard's PhotoBooth toepassing, met vooral extra visuals bovenop de bestaande functionaliteit.
@@ -79,7 +79,7 @@ De applicatie is te verkrijgen via [HKU ECT GitHub](https://github.com/hku-ect/S
 
 
 ## Pong
-Voor Pong werd een bestaande toepassing (van Limulo.net ) aangepast, zodat deze geschikt werd voor een koppeling aan een OSC-stroom vanuit Wekinator en derhalve over een netwerk gespeeld kan worden.
+Voor Pong werd een bestaande toepassing (van Limulo.net) aangepast, zodat deze geschikt werd voor een koppeling aan een OSC-stroom vanuit Wekinator en derhalve over een netwerk gespeeld kan worden.
 In Wekinator stelde het team wat ging spelen als OSC output dan in : "/wek/player1" resp. "/wek/player2" voor variabele oscTeam1, of oscTeam2 
 Zie : https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning
  
