@@ -8,13 +8,12 @@ header:
   image_description: "Exploring different bio data sensors"
   teaser: /assets/images/IMG_6686.jpg
 
-
 tags: 
   - artificial intelligence
   - SoapShopSessie
   - machine learning
   
-  gallery:
+gallery:
   - url: /assets/images/smile-or-else-mosaic-ANIMATION.gif
     image_path: /assets/images/smile-or-else-mosaic-ANIMATION.gif
     alt: "smile-or-else-mosaic-ANIMATION"
