@@ -81,7 +81,7 @@ De applicatie is te verkrijgen via [HKU ECT GitHub](https://github.com/hku-ect/S
 ## Pong
 Voor Pong werd een bestaande toepassing (van Limulo.net) aangepast, zodat deze geschikt werd voor een koppeling aan een OSC-stroom vanuit Wekinator en derhalve over een netwerk gespeeld kan worden.
 In Wekinator stelde het team wat ging spelen als OSC output dan in : "/wek/player1" resp. "/wek/player2" voor variabele oscTeam1, of oscTeam2 
-Zie : https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning
+Zie : [https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning](https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning)
  
 
 ## Style Transfer 
@@ -90,10 +90,10 @@ Op een eigen ECT-server werd een zogeheten fast-style-transfer algoritme voorber
 Afbeeldingen kunnen een goede manier zijn om ons verschillende perspectieven te bieden om naar dingen te kijken. Soms leidt het bewerken / toevoegen van  een bepaalde "stijl" aan een bepaalde afbeelding tot iets bijzonders. Met het doel om 'iets nieuws' te creeëren , is relatief recent gewerkt aan het concept van een "Fast Style Transfer", dat werkt met Tensorflow (een specifieke bibliotheek voor Kunstmatige intelligentie).
 In de Fast Style Transfer wordt de beschrijving van één afbeelding gecombineerd met de stijl(analyse) van een ander beeld via convolutional neural networks. Fast Style-Transfer voegt stijlen van een aantal beroemde schilderijen toe aan een afbeelding, waardoor het een heel nieuw 'kunstwerk' wordt. De neurale netwerken zijn reeds getraind en in deze SoapShopSessie maakten we gebruik van deze voorgetrainde netwerken, 'modellen' geheten (bestanden met de extensie ckpt, wat staat voor een 'checkpoint' in de training van het netwerk).
 Meer informatie over deze techniek is oa te vinden op:
-https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/
+[https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/](https://www.techleer.com/articles/466-insight-into-fast-style-transfer-in-tensorflow/)
 
 Een repository van de fast style transfer network zoals gebruikt in de SoapShopSessie is te vinden op:
-https://github.com/lengstrom/fast-style-transfer
+[https://github.com/lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
 
 
 
@@ -101,9 +101,9 @@ https://github.com/lengstrom/fast-style-transfer
 
 Meer informatie op:
 
-* Playlist met AI muziek bij binnenkomst: https://youtu.be/TqH6ionF94I
-* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : https://projectcamp.us/projects/ai-machine-learning/items
-* algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: https://projectcamp.us/projects/ai-machine-learning/items
+* Playlist met AI muziek bij binnenkomst: [https://youtu.be/TqH6ionF94I](https://youtu.be/TqH6ionF94I)
+* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : [https://projectcamp.us/projects/ai-machine-learning/items](https://projectcamp.us/projects/ai-machine-learning/items)
+* algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: [https://projectcamp.us/projects/ai-machine-learning/items](https://projectcamp.us/projects/ai-machine-learning/items)
 
 
 
