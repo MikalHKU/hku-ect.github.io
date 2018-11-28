@@ -42,7 +42,7 @@ In het tweede deel van de ochtend werden de deelnemers uitgedaagd om ‘iets nie
 Zo gingen sommige deelnemers aan de slag met emoties in gezichtsherkenning, anderen met een chat-geschiedenis van zichzelf om een chatbot mee te ontwerpen en natuurlijk ‘Dynamic Time Warping’, oftewel partoon-herkenning in de tijd (waarbij gedacht kan worden aan gesture control). 
 Als afsluiter kregen de deelnemers de foto van zichzelf (lachend) toegestuurd welke middels een Style Transfer model (domein van deep learning) in verschillende stijlen was gemonteerd.
 
-![Smile-or-Else-style-transfer-souvenir](/assets/images/smile-or-else-mosaic-ANIMATION.gif)
+![Smile-or-Else-style-transfer-souvenir](/blog/assets/images/smile-or-else-mosaic-ANIMATION.gif)
 
 
 # making of SoapShopSessie #1 
@@ -56,7 +56,7 @@ De waardes worden gegenereerd door een combinatie van FaceOSC (als zogeheten "fe
 Wekinator is daarbij getraind op neutrale (en andere) gezichten (voor waarde "1") en specifiek op verschillende lachende gezichten (value 2)
 Op deze manier kan deze applicatie een foto schieten wanneer iemand lacht (smile) en blijft de 'Photo Booth' 'stil' bij andere gelaatsuitdrukkingen ("or else" :) 
 
-![Smile-or-Else diagram](/assets/images/Smile-or-Else-diagram.png)
+![Smile-or-Else diagram](/blog/assets/images/Smile-or-Else-diagram.png)
 
 In het diagram (zie afbeelding) wordt de installatie uitgelegd als:
 
@@ -74,7 +74,7 @@ FaceTracker2OSC is een variatie op FaceOSC en te verkrijgen via [FaceTracker2OSC
 Deze processing-applicatie is een lichte aanpassing op Andreas Refsgaard's PhotoBooth toepassing, met vooral extra visuals bovenop de bestaande functionaliteit. 
 De applicatie is te verkrijgen via [HKU ECT GitHub] ( https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning )
 
-![Smile-or-Else demo](/assets/images/IMG_8264-Than-Smile-or-Else.JPG)
+![Smile-or-Else demo](/blog/assets/images/IMG_8264-Than-Smile-or-Else.JPG)
 
 
 ## Pong
