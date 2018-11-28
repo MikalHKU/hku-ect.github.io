@@ -4,9 +4,9 @@ excerpt: "Aan de slag met Kunstmatige intelligentie"
 author: Than van Nispen
 
 header:
-  overlay_image: /blog/assets/images/smile-or-else-mosaic-ANIMATION.gif
+  overlay_image: /assets/images/smile-or-else-mosaic-ANIMATION.gif
   image_description: "smile-or-else-mosaic-ANIMATION"
-  teaser: /blog/assets/images/smile-or-else-mosaic-ANIMATION.gif
+  teaser: /assets/images/smile-or-else-mosaic-ANIMATION.gif
 
 tags: 
   - artificial intelligence
