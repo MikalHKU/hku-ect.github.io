@@ -100,9 +100,9 @@ Een repository van de fast style transfer network zoals gebruikt in de SoapShopS
 
 Meer informatie op:
 
-* Playlist met AI muziek bij binnenkomst: ( https://youtu.be/TqH6ionF94I ) 
-* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : ( http://home.hku.nl/~than.vannispen/soapshop-nr-1/ ) 
-* algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: ( https://projectcamp.us/projects/ai-machine-learning/items ) 
+* Playlist met AI muziek bij binnenkomst: (https://youtu.be/TqH6ionF94I) 
+* handige links rondom deze specifieke SoapShopSessie, inclusief pdf van de keynote : (http://home.hku.nl/~than.vannispen/soapshop-nr-1/) 
+* algemeen worden voor HKU medewerkers en studenten relevante ontwikkelingen bijgehouden op: (https://projectcamp.us/projects/ai-machine-learning/items) 
 
 
 
