@@ -6,6 +6,21 @@ tags:
   - artificial intelligence
   - SoapShopSessie
   - machine learning
+  
+  gallery:
+  - url: /assets/images/smile-or-else-mosaic-ANIMATION.gif
+    image_path: /assets/images/smile-or-else-mosaic-ANIMATION.gif
+    alt: "smile-or-else-mosaic-ANIMATION"
+    title: "smile-or-else-mosaic-ANIMATION"
+  - url: /assets/images/Smile-or-Else-diagram.png
+    image_path: /assets/images/Smile-or-Else-diagram.png
+    alt: ""
+    title: ""
+  - url: /assets/images/IMG_6681.jpg
+    image_path: /assets/images/IMG_6681.jpg
+    alt: "bio hack day in progress"
+    title: "bio hack day in progress"
+
 ---
 
 Het Expertisecentrum Creatieve Technologie (ECT) organiseert sinds studiejaar 2018/2019 maandelijks een zogeheten SoapShopSessie rond een bepaald thema dat raakt aan technologie en kunsten. Het is deels een open podium (soapbox) en deels een workshop, vandaar ‘SoapShop’. Deelnemers zijn medewerkers van het centrum, andere HKU-medewerkers, gemotiveerde studenten en eventueel externen.
