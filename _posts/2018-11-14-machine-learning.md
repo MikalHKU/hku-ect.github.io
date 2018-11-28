@@ -8,8 +8,6 @@ tags:
   - machine learning
 ---
 
-# SoapShopSessie #1 BLOG, plus 'making of'
-
 Het Expertisecentrum Creatieve Technologie (ECT) organiseert sinds studiejaar 2018/2019 maandelijks een zogeheten SoapShopSessie rond een bepaald thema dat raakt aan technologie en kunsten. Het is deels een open podium (soapbox) en deels een workshop, vandaar ‘SoapShop’. Deelnemers zijn medewerkers van het centrum, andere HKU-medewerkers, gemotiveerde studenten en eventueel externen.
 De eerste SoapShopSessie, #1, liet zich ‘Aan de slag met Kunstmatige intelligentie’ noemen.
 
