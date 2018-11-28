@@ -14,18 +14,18 @@ tags:
   - machine learning
   
 gallery:
-  - url: /assets/images/smile-or-else-mosaic-ANIMATION.gif
-    image_path: /assets/images/smile-or-else-mosaic-ANIMATION.gif
+  - url: /blog/assets/images/smile-or-else-mosaic-ANIMATION.gif
+    image_path: /blog/assets/images/smile-or-else-mosaic-ANIMATION.gif
     alt: "smile-or-else-mosaic-ANIMATION"
     title: "smile-or-else-mosaic-ANIMATION"
-  - url: /assets/images/Smile-or-Else-diagram.png
-    image_path: /assets/images/Smile-or-Else-diagram.png
+  - url: /blog/assets/images/Smile-or-Else-diagram.png
+    image_path: /blog/assets/images/Smile-or-Else-diagram.png
     alt: ""
     title: ""
-  - url: /assets/images/IMG_6681.jpg
-    image_path: /assets/images/IMG_6681.jpg
-    alt: "bio hack day in progress"
-    title: "bio hack day in progress"
+  - url: /blog/assets/images/IMG_8264-Than-Smile-or-Else.JPG
+    image_path: /blog/assets/images/IMG_8264-Than-Smile-or-Else.JPG
+    alt: "Smile-or-Else demo"
+    title: "Smile-or-Else demo"
 
 ---
 
