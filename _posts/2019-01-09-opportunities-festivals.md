@@ -1,7 +1,7 @@
 ---
 title: "Opportunities for HKU at leading festivals"
 excerpt: "HKU teachers and employees share their impressions of festivals and expos"
-author: Machiel Veltkamp
+author: Martijn van Best
 
 header:
   overlay_image: /assets/images/occulus_2.jpeg
