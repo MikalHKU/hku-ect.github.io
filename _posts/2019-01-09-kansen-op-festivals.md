@@ -28,12 +28,12 @@ Martijn van Gessel (Lecturer HKU Music and Technology, Expertise Center Creative
 
 "This year, a space was created in which work was showcased by (our competitor) ArtEZ's 2nd-year students Interaction Design. HKU would also be able to show work like this. The first contacts with TodaysArt have already been made by a number of HKU employees, so this process is underway.”
 
-View the programme here: http://todaysart.nl/2018/program/
-Here a review by the organization: http://todaysart.org/todaysart-2018-72-hour-audio-visual-spectacle/
+View the programme here: (http://todaysart.nl/2018/program/)
+Here a review by the organization: (http://todaysart.org/todaysart-2018-72-hour-audio-visual-spectacle/)
 
 ## VR Days in Amsterdam
 
-Job van Nuenen (Teacher Image and Media Technology at HKU Media) visited the VR days (https://vrdays.co). These took place from October 24 to 26 in Amsterdam. There was a 'trading floor' that mainly focused on commercial applications: many virtual shop designers, gaze tracking (tracking what someone looks at) for store optimization, virtual meeting environments and hardware suppliers.
+Job van Nuenen (Teacher Image and Media Technology at HKU Media) visited the VR days [https://vrdays.co]. These took place from October 24 to 26 in Amsterdam. There was a 'trading floor' that mainly focused on commercial applications: many virtual shop designers, gaze tracking (tracking what someone looks at) for store optimization, virtual meeting environments and hardware suppliers.
 
 Job: "One of the most interesting things for me here was VUZE's new camera (https://vuze.camera), a device that can work 360 degrees and 180 degrees stereoscopically. This would be a great tool for students to experiment on one device with two different techniques. The technical quality of the camera seemed pretty good in the demos. It also has a solid build quality, essential when lending such a device to students.
 
@@ -50,7 +50,7 @@ This kills bacteria that unavoidably collects on equipment that is put on the no
 
 ## The VR Church
 
-Job van Nuenen: "In one of the aisles the VR church was set up, where a lot of artistic / independent work was shown through HTC Vive hardware in small, separated rooms. For example, there were two Film Academy graduates with their co-op VR Game "Floaty Flatmates”. There was too much to see in one day, you can find an overview here: https://vrdays.co/church-of-vr-mobile-vr/ and https://vrdays.co/ church-of-vr-virtual-reality-installation /
+Job van Nuenen: "In one of the aisles the VR church was set up, where a lot of artistic / independent work was shown through HTC Vive hardware in small, separated rooms. For example, there were two Film Academy graduates with their co-op VR Game "Floaty Flatmates”. There was too much to see in one day, you can find an overview here: https://vrdays.co/church-of-vr-mobile-vr/ and https://vrdays.co/church-of-vr-virtual-reality-installation /
 
 The VR Church was tucked away in a corner somewhere and it was difficult to determine what work you should focus on. A lot of the rooms were  continuously occupied and I found it unclear how much time you were allowed to spend on certain works. Too bad, because the quality of the displayed works was very high! It tasted like more. "
 
