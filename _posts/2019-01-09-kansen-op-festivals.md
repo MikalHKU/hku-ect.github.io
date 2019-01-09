@@ -1,6 +1,6 @@
 ---
 title: "Opportunities for HKU at leading festivals"
-excerpt: "HKU teachers and employees share their impressions of festivals and expos”
+excerpt: "HKU teachers and employees share their impressions of festivals and expos"
 author: Machiel Veltkamp
 
 header:
@@ -26,7 +26,7 @@ Martijn van Gessel (Lecturer HKU Music and Technology, Expertise Center Creative
 
 ## TodaysArt: Opportunities for HKU
 
-"This year, a space was created in which work was showcased by (our competitor) ArtEZ's 2nd-year students Interaction Design. HKU would also be able to show work like this. The first contacts with TodaysArt have already been made by a number of HKU employees, so this process is underway.“
+"This year, a space was created in which work was showcased by (our competitor) ArtEZ's 2nd-year students Interaction Design. HKU would also be able to show work like this. The first contacts with TodaysArt have already been made by a number of HKU employees, so this process is underway.”
 
 View the programme here: http://todaysart.nl/2018/program/
 Here a review by the organization: http://todaysart.org/todaysart-2018-72-hour-audio-visual-spectacle/
