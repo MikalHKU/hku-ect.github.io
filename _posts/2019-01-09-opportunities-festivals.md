@@ -53,7 +53,7 @@ Job van Nuenen: "In one of the aisles the VR church was set up, where a lot of a
 
 The VR Church was tucked away in a corner somewhere and it was difficult to determine what work you should focus on. A lot of the rooms were  continuously occupied and I found it unclear how much time you were allowed to spend on certain works. Too bad, because the quality of the displayed works was very high! It tasted like more."
 
-Also interesting: the [Sense Glove](senseglove.com), a new VR glove that communicates pressure sensitivity.
+Also interesting: the [Sense Glove](https://senseglove.com), a new VR glove that communicates pressure sensitivity.
 
 ## VR Days: Opportunities for HKU
 
