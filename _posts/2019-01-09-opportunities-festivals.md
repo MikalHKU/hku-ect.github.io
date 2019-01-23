@@ -28,8 +28,8 @@ Martijn van Gessel (Lecturer HKU Music and Technology, Expertise Center Creative
 
 "This year, a space was created in which work was showcased by (our competitor) ArtEZ's 2nd-year students Interaction Design. HKU would also be able to show work like this. The first contacts with TodaysArt have already been made by a number of HKU employees, so this process is underway.”
 
-[View the programme here](http://todaysart.nl/2018/program/)
-[Read a review by the organization](http://todaysart.org/todaysart-2018-72-hour-audio-visual-spectacle/)
+*[View the programme here](http://todaysart.nl/2018/program/)
+*[Read a review by the organization](http://todaysart.org/todaysart-2018-72-hour-audio-visual-spectacle/)
 
 ## VR Days in Amsterdam
 
@@ -53,7 +53,7 @@ Job van Nuenen: "In one of the aisles the VR church was set up, where a lot of a
 
 The VR Church was tucked away in a corner somewhere and it was difficult to determine what work you should focus on. A lot of the rooms were  continuously occupied and I found it unclear how much time you were allowed to spend on certain works. Too bad, because the quality of the displayed works was very high! It tasted like more."
 
-Also interesting: the [Sense Glove](senseglove.com), a new VR glove that communicates pressure sensitivity.
+Also interesting: the [Sense Glove](https://senseglove.com), a new VR glove that communicates pressure sensitivity.
 
 ## VR Days: Opportunities for HKU
 
