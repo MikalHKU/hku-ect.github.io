@@ -80,8 +80,12 @@ De applicatie is te verkrijgen via [HKU ECT GitHub](https://github.com/hku-ect/S
 
 ## Pong
 Voor Pong werd een bestaande toepassing (van Limulo.net) aangepast, zodat deze geschikt werd voor een koppeling aan een OSC-stroom vanuit Wekinator en derhalve over een netwerk gespeeld kan worden.
-In Wekinator stelde het team wat ging spelen als OSC output dan in : "/wek/player1" resp. "/wek/player2" voor variabele oscTeam1, of oscTeam2 
-Zie : [https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning](https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning)
+In Wekinator stelde het team wat ging spelen als OSC output dan in : "/wek/player1" resp. "/wek/player2" voor variabele oscTeam1, of oscTeam2 .
+De verschillende teams trainden met k-nearest neighbour classificatie op (een selectie van een analyse van) het audio-signaal. 
+Wat betreft de audio analyse werd gebruikt gemaakt van de "Various Audio Input"-applicatie van Rebecca Fiebrink: 
+[https://github.com/fiebrink1/wekinator_examples/tree/master/inputs/AudioInput/AudioInputWithOpenFrameworks/Various_Audio_Inputs](https://github.com/fiebrink1/wekinator_examples/tree/master/inputs/AudioInput/AudioInputWithOpenFrameworks/Various_Audio_Inputs)
+Zie verder : [https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning](https://github.com/hku-ect/SoapShopSessions/tree/master/Session%231_MachineLearning)
+
  
 
 ## Style Transfer 
