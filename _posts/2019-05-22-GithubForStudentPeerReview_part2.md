@@ -32,7 +32,9 @@ A few things that we've taken away from the experiment:
 # What worked, what didn't
 The first iteration included a score calculation based on what students had done in the previouw week. I've been trying to find a research paper that shows that testing for something causes people to optimize for the way your testing (which I know exists, but is impossible to find because of the words employed), instead of focussing on what you're asking them to do, because this is exactly what we observed. Because of this, we quickly moved to a second iteration of the score-system, redesigned by a student (!). This second system produced less incentive to "game the system", but also reduced engagement. The type of engagement did appear to be more authentic (less formulaic, more content-focussed).
 
-Overall the second iteration focussed on two things: measuring activity in a fair way. It was made harder to do all the work at the end or up front, instead it rewarded consistency by awarding more points for doing smaller amounts of work over time, and reducing "false positives" for bad interactions (badly reviewing lots of work was no longer a rewarding activity).
+Overall the second iteration focussed on two things: 
+ * Measuring activity in a fair way. It was made harder to do all the work at the end or up front, instead it rewarded consistency by awarding more points for doing smaller amounts of work over time, 
+ * Reducing "false positives" for bad interactions (badly reviewing lots of work was no longer a rewarding activity).
 
 The goal of getting students more proficient with git has already been successful, but I'm still not happy with how well they're picking up on the importance of peer-reviewing.
 
