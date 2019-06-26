@@ -42,6 +42,8 @@ The goal of getting students more proficient with git has already been successfu
 For the next iteration we're going to try and use different parts of git for different purposes.
 
 ## Git flow
+{% include figure image_path="/assets/images/forked.png" alt="forking" caption="Students fork and commit, referencing their issues" %}
+
 First off, the pull-request & review setup remains the same (implementation of this often call themselves git flow). Our implementation of this process is:
  * You create a branch of the current repository (could also be on your own git)
  * You do some work, that you commit to this branch
