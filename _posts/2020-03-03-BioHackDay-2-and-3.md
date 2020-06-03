@@ -25,6 +25,10 @@ gallery:
     image_path: /assets/images/IMG_6681.jpg
     alt: "bio hack day in progress"
     title: "bio hack day in progress"
+  - url: /assets/images/IMG_6681.jpg
+    image_path: /assets/images/Jasmina-breath-heart-sensor.png
+    alt: "Illustration BioArt Jasmina Avellanedas and Guillem Gongora"
+    title: "Illustration BioArt Jasmina Avellanedas and Guillem Gongora"
 ---
 
 This Blogpost extends the short post on BioHakDag #1, with BioHakDag #2 and #3 (Feb. 2019 & 2020)
@@ -65,6 +69,11 @@ The basic concept of a quantified self, as well as the opportunities that BioSen
 The students that participated in the last couple of BioHakDays were highly motivated to realise some of their work with biosensing.
 Some interesting end results are discussed at the end of this section and include the work from Jasmina Avellanedas and Guillem Góngora.
 
+
+{% include gallery caption="Illustration BioArt Jasmina Avellanedas and Guillem Gongora" %}
+
+[Illustration BioArt Jasmina Avellanedas and Guillem Gongora](/blog/assets/images/Jasmina-breath-heart-sensor.png)
+
 The domains of BioArt, BioSensing and BioHacking are in a lift and the number of (commercial) applications is growing every moment. It was a welcome, inspiring, presentation by Golden Emotion Analytics, a new startup that has the ambition to have some of the ‘quantifiable biodata’ connected to optimizing user experiences involving media and entertainment.
 https://www.goldenemotionanalytics.com
 Another interesting find was the commercial applications around “Plant Music” → Plant Sensing, with sound / music as a result.  
@@ -78,16 +87,16 @@ Embed video : https://youtu.be/p3OwxICeS_A
 
 ## What we explored / worked on / with :
 
-Kinect :
+### Kinect :
 As a potential ‘presence detector’, ‘pose detection’, but also heartrates the Kinect is a promising sensor.
 It’s good to mention that Kinect won’t work on OS X Mojave, because openNI is not supported.
 For pc use NiMate to ‘translate’ skeleton data to OSC.
 “Beware: use microsoft drivers, not the one NiMate wants to install”
 Check for more information : https://trello.com/c/s0eVb1zk
 
-Tobii Eye tracker (no updates, only works on Windows), see https://github.com/hku-ect/BioData-Interfaces
+### Tobii Eye tracker (no updates, only works on Windows), see https://github.com/hku-ect/BioData-Interfaces
 
-Bose AR ready headphones : Frames
+### Bose AR ready headphones : Frames
 A new development we see for BioSensing is the simple implementation of gyroscope data in Bluetooth devices, such as headphones (Bose AR ready headphones).
 A special mention and worth exploring is the Bose Frames (sunglasses with built in miniature speakers and ‘AR-ready’). To start experimenting with these frames : https://developer.bose.com (or ask Than van Nispen for the Unity demos)
 Step 1:
@@ -105,12 +114,12 @@ chrome://flags/#enable-experimental-web-platform-features
 Chrome for Desktop [PREFERRED]: enable Web Bluetooth by going to chrome://flags/#enable-experimental-web-platform-features and check “Experimental Web Platform features”
 http://localhost:8888/bose-ar-explorations/
 
-Heartlive & Unity (Sander)
+### Heartlive & Unity (Sander)
 Microphone input does work
 Heartlive does not give any form of response (but I can see the data in Audition).
 I think some filtering or buffer size cancels the signal. To be continued.
 
-MakeyMakey
+### MakeyMakey
 Although debatable whether this device is a ‘biosensor’ the https://makeymakey.com is a very simple usb interface that literally “Connects the world to your computer” (-as is the company’s slogan), by offering 6 inputs to connect ‘conducting things’ to, like bananas, tin foil, humans, or anything else in the world. . .
 Makey Makey work just like a USB keyboard or mouse, sending keyboard (WASD, spacebar, etc) and mouse (left click, right click, etc) signals to your computer.
 
@@ -124,10 +133,11 @@ There are many variations based on the MakeyMakey principle, but a special menti
 https://shop.playtronica.com
 
 
-BareConductive
+### BareConductive
 The group that used the BareConductive for a ‘Plant communication’-project modified the Bare Conductive, so that the output is midi. You can either solder, or use electronic paint on the midi-connection. See : https://www.bareconductive.com/make/on-board-midi-mode/ for more information
 
-MYO
+### MYO
+
 http://diagnostics.myo.com
 ECT previously developed the MYO OSC sender https://github.com/hku-ect/Myo to make use of the MYO data possible, via sending it over the network as OSC. The application works fine in Mojave.
 A new feature request for this MYO Sender was to have myo/emg data in OSC (as can be seen in https://github.com/Sindel/myo-osc ). The 8 EMG-data pods are relevant for using the muscle tension and is an important addition to the gyroscope data and pre calibrated gestures.
@@ -136,13 +146,15 @@ These features will be implemented later this year.
 
 
 
-MindWave 1 & 2 (new)
+### MindWave 1 & 2 (new)
+
 Niet aan de praat gekregen.
 Documentatie doet vermoeden dat ‘het’ moet werken, maar geen installaties mogelijk onder 10.14.6 . Advies contact opnemen met bedrijf voor support.
 
 The Muse headband was under reparation during BioHakDag #3
 
-Bitalino
+### Bitalino
+
 Bitalino presents itself as a “personal biomedical research system” and “an all-in-one hardware design, with all the blocks pre-connected between them and ready-to-use, making it perfect for biosignal exploration and lab activities. The kit includes all the basic accessories needed to get started, namely the hardware modules, battery, cables and electrodes. Along with our cross-platform OpenSignals software, it enables instant biosignal data visualization and recording out-of-the-box.”
 
 https://bitalino.com/en/
@@ -161,19 +173,21 @@ Is you connect the sensors directly to an Arduino this results in very noisy dat
 Furthermore : ignore the urge to break the board in separate components (it really looks very inviting to do so), because this will require to make all the connections anew....
 
 
-Kodea KD-202F Blood Pressure monitor
+### Kodea KD-202F Blood Pressure monitor
+
 Dit is een Blood pressure Monitor waarover weinig te vinden is online. Echter na wat snuffelen blijkt dat de monitor hoort bij de e-health sensor platform van cooking hack.
 Main tutorial page of the e-health shield
-https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/
-Error in e-health arduino library
-https://www.cooking-hacks.com/forum/viewtopic.php?f=20&t=6023
+[ https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/ ]
+[Error in e-health arduino library]
+(https://www.cooking-hacks.com/forum/viewtopic.php?f=20&t=6023)
 
 Het lijkt alsof je met de bloodpressure sensor alleen de gegevens in het geheugen kan uitlezen. Dus je kan alleen meetingen die al gedaan zijn uitlezen.
 Je verbindt hiervoor de hartslagmeter met de e-health shield die je op Arduino zet. Alleen als je nu in de Seriele monitor kijkt zou je de gegevens moeten kunnen binnen halen, maar dat werkt helaas niet..
 
 
 
-Electro Muscle Stimulation (EMS)
+### Electro Muscle Stimulation (EMS)
+
 Filipe: "voordeel van EMS vs. trill motors is dat het een zeer specifieke sensatie is"
 Hans: "unpleasant feeling, too intrusive"
 Tested on arm, thumb.
