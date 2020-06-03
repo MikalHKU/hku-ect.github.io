@@ -177,9 +177,8 @@ Furthermore : ignore the urge to break the board in separate components (it real
 
 Dit is een Blood pressure Monitor waarover weinig te vinden is online. Echter na wat snuffelen blijkt dat de monitor hoort bij de e-health sensor platform van cooking hack.
 Main tutorial page of the e-health shield
-[ https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/ ]
-[Error in e-health arduino library]
-(https://www.cooking-hacks.com/forum/viewtopic.php?f=20&t=6023)
+(https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/)
+[Error in e-health arduino library](https://www.cooking-hacks.com/forum/viewtopic.php?f=20&t=6023)
 
 Het lijkt alsof je met de bloodpressure sensor alleen de gegevens in het geheugen kan uitlezen. Dus je kan alleen meetingen die al gedaan zijn uitlezen.
 Je verbindt hiervoor de hartslagmeter met de e-health shield die je op Arduino zet. Alleen als je nu in de Seriele monitor kijkt zou je de gegevens moeten kunnen binnen halen, maar dat werkt helaas niet..
