@@ -36,7 +36,7 @@ The question is however how to get that data? What are the best and (easiest) op
 
 As a start we made a list of the equipment that we collected for that day and who would do what as you can see in the image to the left. Then it was time to start testing and to start coding. We spent most of the day trying stuff out while documenting what we where doing. With some devices it was reasonable straightforward to get them working and communicating over OSC, but with other devices we ran into some platform or driver issues. For example the Eyetracker we tried worked very good, but unfortunately only under Windows. At the end of the day we presented to each other what we worked on and what we found out. To see the full result of the day with more descriptions of the different sensors and code you can take a look at the github repository here: https://github.com/hku-ect/BioData-Interfaces
 
-We hope to organize more of these days in the future to take the time to experiment and learn.
+We hope to organize more of these days in 2019 to take the time to experiment and learn.
 
 {% include gallery caption="The bio hack day in progress" %}
 
