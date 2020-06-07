@@ -205,11 +205,11 @@ Tested on arm, thumb.
 Experimented with size and form: too small form feels more 'painful', original (square) size seems best.
 [More literature : Pedro Lopes EMS](http://plopes.org/ems/#testingEMSmachine)
 
-![EMS](/assets/images/EMS-IMG_0369.JPG)
+![EMS](/blog/assets/images/EMS-IMG_0369.JPG)
 Evaluation by Hans Leeuw: "Electro Muscle Stimulation (EMS) is an interesting way of implementing a haptic experience. The method is much more intrusive though than haptic feedback through vibration motors or vibrating piezo elements."
 An email was send to Pedro Lopes by Hans, but there was no real answer to the issue of intrusiveness. The questions to Pedro remain open for now and is interesting to share:
 
-*"Finally had some time to look into muscle stimulation today. I did some experimenting together with students who also liked it.
+* "Finally had some time to look into muscle stimulation today. I did some experimenting together with students who also liked it.
 
 I have a number of questions though. I hope I do not ask questions that are answered in a technical article that I am not aware of...:
 
@@ -220,7 +220,7 @@ Overall I (and other people trying it) did not really like the feeling. Is that 
 I found that I have a slightly different TENS/EMS version then you use in the video. Mine only goes to 100 Hz. I guess that should suffice? Controlling the EMS frequency over time is not something worth while to address I guess?
 
 I found this schematic for building the openEMSstim:
-https://hackaday.io/project/106571-neurocuddl/log/151521-electrical-stimulation-based-haptics
+<https://hackaday.io/project/106571-neurocuddl/log/151521-electrical-stimulation-based-haptics>
 
 Most components are SMD. I guess there are PCB prints somewhere? If not, did somebody already look into DIP alternatives? (Especially considering the Galvanic Isolation)
 
