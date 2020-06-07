@@ -3,9 +3,9 @@ title: "BioHakDag #2 and #3 Biodata Hack day"
 excerpt: "Exploring different bio data sensors"
 author: Than van Nispen
 header:
-  overlay_image: /assets/images/IMG_6686.jpg
+  overlay_image: /assets/images/2020-02-12-biohakdag-plant.jpeg
   image_description: "Exploring different bio data sensors"
-  teaser: /assets/images/IMG_6686.jpg
+  teaser: /assets/images/2020-02-12-biohakdag-plant.jpeg
 
 tags:
   - sensors
@@ -13,26 +13,26 @@ tags:
   - freaklab
   - biohakdag
 gallery:
-  - url: /assets/images/IMG_6678.jpg
-    image_path: /assets/images/IMG_6678.jpg
+  - url: /assets/images/2020-02-12-biohakdag-plant.jpeg
+    image_path: /assets/images/2020-02-12-biohakdag-plant.jpeg
+    alt: "bio hack day in progress : plant sensing"
+    title: "bio hack day in progress : plant sensing"
+  - url: /assets/images/2020-BioHakDag-EMG.jpeg
+    image_path: /assets/images/2020-BioHakDag-EMG.jpeg
+    alt: "bio hack day in progress : EMG"
+    title: "bio hack day in progress : EMG"
+  - url: /assets/images/2020-02-12-biohakdag.jpeg
+    image_path: /assets/images/2020-02-12-biohakdag.jpeg
     alt: "bio hack day in progress"
     title: "bio hack day in progress"
-  - url: /assets/images/IMG_6679.jpg
-    image_path: /assets/images/IMG_6679.jpg
-    alt: "bio hack day in progress"
-    title: "bio hack day in progress"
-  - url: /assets/images/IMG_6681.jpg
-    image_path: /assets/images/IMG_6681.jpg
-    alt: "bio hack day in progress"
-    title: "bio hack day in progress"
-  - url: /assets/images/IMG_6681.jpg
+  - url: /assets/images/Jasmina-breath-heart-sensor.png
     image_path: /assets/images/Jasmina-breath-heart-sensor.png
     alt: "Illustration BioArt Jasmina Avellanedas and Guillem Gongora"
     title: "Illustration BioArt Jasmina Avellanedas and Guillem Gongora"
 ---
 
 This Blogpost extends the short post on BioHakDag #1, with BioHakDag #2 and #3 (Feb. 2019 & 2020)
-See also https://pong.hku.nl/blog/BioHackDay/ for an impression of earlier BioHakDays.
+See also [https://pong.hku.nl/blog/BioHackDay/](https://pong.hku.nl/blog/BioHackDay/) for an impression of earlier BioHakDays.
 
 # BioHakDag : “I have some good news and some bad news”.
 
@@ -41,17 +41,17 @@ The 3d BioHakDay took place on 12 February 2020 at HKU IBB.
 It was great to experience so much interest in the topic of BioSensing amongst participants from Media, Interaction Design, Fine Art, Music & Technology, ECT and some non-HKU external participants Mimeto (MBO).
 
 After a short and basic introduction to senses, sensors, biosensing & biohacking we made an assessment of the hardware present and got started.
-After the lunch break we had a short inspiration presentation from the people behind https://www.goldenemotionanalytics.com
+After the lunch break we had a short inspiration presentation from the people behind [https://www.goldenemotionanalytics.com](https://www.goldenemotionanalytics.com)
 
 When we talk about BioSensors one can think of sensors with which the heart rhythm, muscle tension, skin humidity, breathing, movement and brain activity can be measured.
 We explore how different sensors for biofeedback work and how they can be used to measure the physical change as a result of a variable experience.
-This type of data enables designing for specific user experiences using sensors for implicit feedback (user-centered design). We can thus focus on "the inner workings of the user": what does the user experience?
+This type of data enables designing for specific user experiences using sensors for implicit feedback (user centered design). We can thus focus on "the inner workings of the user": what does the user experience?
 Think for example of a game that becomes more difficult, more exciting, or easier when the player's heart rate increases, a meditation application, an installation that you can influence with your brain activity, or an application that gives you feedback based on the muscle tension in your arms.
 
 In addition to measuring muscle tension, a special experience in BioHakDag # 2 was to control muscle tension through Electro Muscle Stimulation (EMS). With an electrical current in the right place, a muscle pulls together from the user. So you can, for example, let someone play the piano ; )
 
-Examples of biosensors can be found at:
-http://heartlive.nl , https://www.myo.com , https://store.neurosky.com/pages/mindwave , http://bitalino.com
+Examples of biosensors can be found on the websites from:
+[Heartlive](http://heartlive.nl) , [MYO](https://www.myo.com) , [MindWave](https://store.neurosky.com/pages/mindwave), [Bitalino](http://bitalino.com)
 A number of the sensors are available in the HKU werkplaats ‘uitleen’, but participants were also invited to bring their own sensors for further exploration.
 
 ## “First the Bad News”
@@ -67,23 +67,20 @@ Bio data can be ‘noisy’, varying to different contexts and users. Some of th
 ## “Then The Good News”
 The basic concept of a quantified self, as well as the opportunities that BioSensing offers for user centred (interaction) design are very inspiring.
 The students that participated in the last couple of BioHakDays were highly motivated to realise some of their work with biosensing.
-Some interesting end results are discussed at the end of this section and include the work from Jasmina Avellanedas and Guillem Góngora.
-
-
-{% include gallery caption="Illustration BioArt Jasmina Avellanedas and Guillem Gongora" %}
+Some interesting end results are discussed at the end of this section and include the work from Jasmina Avellanedas and Guillem Góngora (2019).
 
 [Illustration BioArt Jasmina Avellanedas and Guillem Gongora](/blog/assets/images/Jasmina-breath-heart-sensor.png)
 
-The domains of BioArt, BioSensing and BioHacking are in a lift and the number of (commercial) applications is growing every moment. It was a welcome, inspiring, presentation by Golden Emotion Analytics, a new startup that has the ambition to have some of the ‘quantifiable biodata’ connected to optimizing user experiences involving media and entertainment.
-https://www.goldenemotionanalytics.com
+The domains of BioArt, BioSensing and BioHacking are in a lift and the number of (commercial) applications is growing every moment. It was a welcome, inspiring, presentation by [Golden Emotion Analytics](https://www.goldenemotionanalytics.com), a new startup that has the ambition to have some of the ‘quantifiable biodata’ connected to optimizing user experiences involving media and entertainment.
+
 Another interesting find was the commercial applications around “Plant Music” → Plant Sensing, with sound / music as a result.  
 One of the student groups started working with a concept of plant personalities and some ‘presence sensing’ required to give auditive feedback to a visitor on whether to approach (or not) the plant. This early prototype of ‘plant touching’ was realised with the Bare Conductive Touch Board.
 
 It’s especially nice when a concept is realised in the limited time of one ‘BioHakDag’.
 The realisation of ‘breathing the life into a digital Pinguin’ with an E-health sensor and PinGui is especially noteworthy:
-Documentation of E-health sensor and PinGui: http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/
+Documentation of E-health sensor and PinGui: [http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/](http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/)
 Embed video : https://youtu.be/p3OwxICeS_A
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/p3OwxICeS_A)
 
 ## What we explored / worked on / with :
 
@@ -176,8 +173,7 @@ Furthermore : ignore the urge to break the board in separate components (it real
 ### Kodea KD-202F Blood Pressure monitor
 
 Dit is een Blood pressure Monitor waarover weinig te vinden is online. Echter na wat snuffelen blijkt dat de monitor hoort bij de e-health sensor platform van cooking hack.
-Main tutorial page of the e-health shield
-(https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/)
+[Main tutorial page of the e-health shield](https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/)
 [Error in e-health arduino library](https://www.cooking-hacks.com/forum/viewtopic.php?f=20&t=6023)
 
 Het lijkt alsof je met de bloodpressure sensor alleen de gegevens in het geheugen kan uitlezen. Dus je kan alleen meetingen die al gedaan zijn uitlezen.
