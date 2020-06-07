@@ -102,7 +102,7 @@ For pc use NiMate to ‘translate’ skeleton data to OSC.
 Check for more information : [https://trello.com/c/s0eVb1zk](https://trello.com/c/s0eVb1zk)
 
 ### Tobii Eye tracker
-(no updates, only works on Windows), see https://github.com/hku-ect/BioData-Interfaces
+(no updates, only works on Windows), see <https://github.com/hku-ect/BioData-Interfaces>
 One group of students realised an auditive memory game with visual control using the Tobii:
 ![Tobii in context](/blog/assets/images/Eye-see-what-youu-did-Screenshot-2020.png)
 
@@ -143,15 +143,15 @@ There are many variations based on the MakeyMakey principle, but a special menti
 
 ### BareConductive
 One group used the BareConductive for a ‘Plant communication’-project and modified the Bare Conductive, so they could use the output as midi.
-You can either solder, or use electronic paint on the midi-connection. See : https://www.bareconductive.com/make/on-board-midi-mode/ for more information.
+You can either solder, or use electronic paint on the midi-connection. See : <https://www.bareconductive.com/make/on-board-midi-mode/> for more information.
 The group was able to use two different plants as capacitive sensors, however the values were quite noisy. The detection of plant touched / not touched was very clear, but the amount of touch, or place of touching not accurate enough.
 
 
 ### MYO
 
 http://diagnostics.myo.com
-ECT previously developed the MYO OSC sender https://github.com/hku-ect/Myo to make use of the MYO data possible, via sending it over the network as OSC. The application works fine in Mojave.
-A new feature request for this MYO Sender was to have myo/emg data in OSC (as can be seen in https://github.com/Sindel/myo-osc ). The 8 EMG-data pods are relevant for using the muscle tension and is an important addition to the gyroscope data and pre calibrated gestures.
+ECT previously developed the MYO OSC sender <https://github.com/hku-ect/Myo> to make use of the MYO data possible, via sending it over the network as OSC. The application works fine in Mojave.
+A new feature request for this MYO Sender was to have myo/emg data in OSC (as can be seen in <https://github.com/Sindel/myo-osc> ). The 8 EMG-data pods are relevant for using the muscle tension and is an important addition to the gyroscope data and pre calibrated gestures.
 Another question -and feature request- is whether the updated application could send ‘pings’ to the Myo (can you have the MYO trill on command?)
 These features will be implemented later this year.
 
@@ -209,7 +209,7 @@ Experimented with size and form: too small form feels more 'painful', original (
 Evaluation by Hans Leeuw: "Electro Muscle Stimulation (EMS) is an interesting way of implementing a haptic experience. The method is much more intrusive though than haptic feedback through vibration motors or vibrating piezo elements."
 An email was send to Pedro Lopes by Hans, but there was no real answer to the issue of intrusiveness. The questions to Pedro remain open for now and is interesting to share:
 
-* "Finally had some time to look into muscle stimulation today. I did some experimenting together with students who also liked it.
+*"Finally had some time to look into muscle stimulation today. I did some experimenting together with students who also liked it.
 
 I have a number of questions though. I hope I do not ask questions that are answered in a technical article that I am not aware of...:
 
