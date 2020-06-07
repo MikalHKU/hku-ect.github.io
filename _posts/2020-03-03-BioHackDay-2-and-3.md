@@ -80,7 +80,9 @@ It’s especially nice when a concept is realised in the limited time of one ‘
 The realisation of ‘breathing the life into a digital Pinguin’ with an E-health sensor and PinGui is especially noteworthy:
 Documentation of E-health sensor and PinGui: [http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/](http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/)
 Embed video : https://youtu.be/p3OwxICeS_A
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/p3OwxICeS_A)
+[![Watch the video](/blog/assets/images/youtube-img-pingui.png)](https://youtu.be/p3OwxICeS_A)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p3OwxICeS_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## What we explored / worked on / with :
 
