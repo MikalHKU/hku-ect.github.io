@@ -79,10 +79,9 @@ One of the student groups started working with a concept of plant personalities 
 It’s especially nice when a concept is realised in the limited time of one ‘BioHakDag’.
 The realisation of ‘breathing the life into a digital Pinguin’ with an E-health sensor and PinGui is especially noteworthy:
 Documentation of E-health sensor and PinGui: [http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/](http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/)
-Embed video : https://youtu.be/p3OwxICeS_A
-[![Watch the video](/blog/assets/images/youtube-img-pingui.png)](https://youtu.be/p3OwxICeS_A)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p3OwxICeS_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Watch the video](/blog/assets/images/youtube-img-pingui.png)](https://youtu.be/p3OwxICeS_A)
+<--! embed youtube video works, but this specific video is not embeddable on websites -->
 
 ## What we explored / worked on / with :
 
@@ -90,14 +89,17 @@ Embed video : https://youtu.be/p3OwxICeS_A
 As a potential ‘presence detector’, ‘pose detection’, but also heartrates the Kinect is a promising sensor.
 It’s good to mention that Kinect won’t work on OS X Mojave, because openNI is not supported.
 For pc use NiMate to ‘translate’ skeleton data to OSC.
-“Beware: use microsoft drivers, not the one NiMate wants to install”
-Check for more information : https://trello.com/c/s0eVb1zk
+*“Beware: use Microsoft drivers, not the one NiMate wants to install”*
+Check for more information : [https://trello.com/c/s0eVb1zk](https://trello.com/c/s0eVb1zk)
 
-### Tobii Eye tracker (no updates, only works on Windows), see https://github.com/hku-ect/BioData-Interfaces
+### Tobii Eye tracker
+(no updates, only works on Windows), see https://github.com/hku-ect/BioData-Interfaces
+One group of students realised an auditive memory game with visual control using the Tobii.
+![Tobii in context](/blog/assets/images/Eye-see-what-youu-did-Screenshot-2020.png)
 
 ### Bose AR ready headphones : Frames
 A new development we see for BioSensing is the simple implementation of gyroscope data in Bluetooth devices, such as headphones (Bose AR ready headphones).
-A special mention and worth exploring is the Bose Frames (sunglasses with built in miniature speakers and ‘AR-ready’). To start experimenting with these frames : https://developer.bose.com (or ask Than van Nispen for the Unity demos)
+A special mention and worth exploring is the Bose Frames (sunglasses with built in miniature speakers and ‘AR-ready’). To start experimenting with these frames : [https://developer.bose.com](https://developer.bose.com) (or ask author Than van Nispen for the Unity demos)
 Step 1:
 Firmware updates (required) Bose Update application (works with Google Chrome)
 Bose Frames werkt via USB Audio Support ook in Unity op Mac. Echter... is een USB kabel benodigd. Builden naar een mobile device kan voor beide apparaten (en dan dus wel handsfree).
@@ -107,19 +109,18 @@ Currently, the following Bose AR devices support USB Audio: • Bose Frames
 To hear audio through your supported device:
 Connect to your device via the USB Provider
 Go to your system audio settings and select your Bose AR device as the default audio output.
-Next level: (including Bose Frames for Max/MSP 8 ea)
-https://github.com/zakaton/Bose-Frames-Web-SDK
+[Next level: (including Bose Frames for Max/MSP 8 ea)](https://github.com/zakaton/Bose-Frames-Web-SDK)
 chrome://flags/#enable-experimental-web-platform-features
 Chrome for Desktop [PREFERRED]: enable Web Bluetooth by going to chrome://flags/#enable-experimental-web-platform-features and check “Experimental Web Platform features”
 http://localhost:8888/bose-ar-explorations/
 
 ### Heartlive & Unity (Sander)
 Microphone input does work
-Heartlive does not give any form of response (but I can see the data in Audition).
-I think some filtering or buffer size cancels the signal. To be continued.
+Heartlive does not give any form of response (but the data can be seen in Audition).
+Sander: "I think some filtering or buffer size cancels the signal. To be continued...
 
 ### MakeyMakey
-Although debatable whether this device is a ‘biosensor’ the https://makeymakey.com is a very simple usb interface that literally “Connects the world to your computer” (-as is the company’s slogan), by offering 6 inputs to connect ‘conducting things’ to, like bananas, tin foil, humans, or anything else in the world. . .
+Although debatable whether this device is a ‘biosensor’ the [MakeyMakey](https://makeymakey.com) is a very simple usb interface that literally “Connects the world to your computer” (-as is the company’s slogan), by offering 6 inputs to connect ‘conducting things’ to, like bananas, tin foil, humans, or anything else in the world. . .
 Makey Makey work just like a USB keyboard or mouse, sending keyboard (WASD, spacebar, etc) and mouse (left click, right click, etc) signals to your computer.
 
 Makey Makey Classic works through opening and closing circuits, just like any other button. Instead of the circuit being closed underneath your keyboard, the circuit is closed through the conductive objects you connect with alligator clips like your hand or your lunch or some tinfoil. When the circuit is closed, the Makey Makey sends a command to your computer, just like a button pressed on a keyboard.
@@ -128,12 +129,12 @@ Makey Makey Classic works through opening and closing circuits, just like any ot
 
 For rapid prototyping and for instance to recognize a person ‘touching’ an object, the MakeyMakey is considered as a relevant device in BioSensing.
 
-There are many variations based on the MakeyMakey principle, but a special mention goes to the Touch Me ‘sensor’ :
-https://shop.playtronica.com
+There are many variations based on the MakeyMakey principle, but a special mention goes to the [Touch Me ‘sensor’](https://shop.playtronica.com)
 
 
 ### BareConductive
-The group that used the BareConductive for a ‘Plant communication’-project modified the Bare Conductive, so that the output is midi. You can either solder, or use electronic paint on the midi-connection. See : https://www.bareconductive.com/make/on-board-midi-mode/ for more information
+The group that used the BareConductive for a ‘Plant communication’-project modified the Bare Conductive, so that the output is midi.
+You can either solder, or use electronic paint on the midi-connection. See : https://www.bareconductive.com/make/on-board-midi-mode/ for more information
 
 ### MYO
 
