@@ -29,6 +29,15 @@ gallery:
     image_path: /assets/images/Jasmina-breath-heart-sensor.png
     alt: "Illustration BioArt Jasmina Avellanedas and Guillem Gongora"
     title: "Illustration BioArt Jasmina Avellanedas and Guillem Gongora"
+  - url: /assets/images/EMS-IMG_0375.JPG
+    image_path: /assets/images/EMS-IMG_0375.JPG
+    alt: "EMS"
+    title: "EMS"
+  - url: /assets/images/EMS-IMG_0369.JPG
+    image_path: /assets/images/EMS-IMG_0369.JPG
+    alt: "EMS"
+    title: "EMS"
+
 ---
 
 This Blogpost extends the short post on BioHakDag #1, with BioHakDag #2 and #3 (Feb. 2019 & 2020)
@@ -69,7 +78,7 @@ The basic concept of a quantified self, as well as the opportunities that BioSen
 The students that participated in the last couple of BioHakDays were highly motivated to realise some of their work with biosensing.
 Some interesting end results are discussed at the end of this section and include the work from Jasmina Avellanedas and Guillem Góngora (2019).
 
-[Illustration BioArt Jasmina Avellanedas and Guillem Gongora](/blog/assets/images/Jasmina-breath-heart-sensor.png)
+![Illustration BioArt Jasmina Avellanedas and Guillem Gongora](/blog/assets/images/Jasmina-breath-heart-sensor.png)
 
 The domains of BioArt, BioSensing and BioHacking are in a lift and the number of (commercial) applications is growing every moment. It was a welcome, inspiring, presentation by [Golden Emotion Analytics](https://www.goldenemotionanalytics.com), a new startup that has the ambition to have some of the ‘quantifiable biodata’ connected to optimizing user experiences involving media and entertainment.
 
@@ -81,7 +90,7 @@ The realisation of ‘breathing the life into a digital Pinguin’ with an E-hea
 Documentation of E-health sensor and PinGui: [http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/](http://laczkojuli.net/biohackdag-hku-ibb-feb-2020/)
 
 [![Watch the video](/blog/assets/images/youtube-img-pingui.png)](https://youtu.be/p3OwxICeS_A)
-<--! embed youtube video works, but this specific video is not embeddable on websites -->
+<!--- embed youtube video works, but this specific video is not embeddable on websites --->
 
 ## What we explored / worked on / with :
 
@@ -94,7 +103,7 @@ Check for more information : [https://trello.com/c/s0eVb1zk](https://trello.com/
 
 ### Tobii Eye tracker
 (no updates, only works on Windows), see https://github.com/hku-ect/BioData-Interfaces
-One group of students realised an auditive memory game with visual control using the Tobii.
+One group of students realised an auditive memory game with visual control using the Tobii:
 ![Tobii in context](/blog/assets/images/Eye-see-what-youu-did-Screenshot-2020.png)
 
 ### Bose AR ready headphones : Frames
@@ -133,8 +142,10 @@ There are many variations based on the MakeyMakey principle, but a special menti
 
 
 ### BareConductive
-The group that used the BareConductive for a ‘Plant communication’-project modified the Bare Conductive, so that the output is midi.
-You can either solder, or use electronic paint on the midi-connection. See : https://www.bareconductive.com/make/on-board-midi-mode/ for more information
+One group used the BareConductive for a ‘Plant communication’-project and modified the Bare Conductive, so they could use the output as midi.
+You can either solder, or use electronic paint on the midi-connection. See : https://www.bareconductive.com/make/on-board-midi-mode/ for more information.
+The group was able to use two different plants as capacitive sensors, however the values were quite noisy. The detection of plant touched / not touched was very clear, but the amount of touch, or place of touching not accurate enough.
+
 
 ### MYO
 
@@ -157,17 +168,17 @@ The Muse headband was under reparation during BioHakDag #3
 
 Bitalino presents itself as a “personal biomedical research system” and “an all-in-one hardware design, with all the blocks pre-connected between them and ready-to-use, making it perfect for biosignal exploration and lab activities. The kit includes all the basic accessories needed to get started, namely the hardware modules, battery, cables and electrodes. Along with our cross-platform OpenSignals software, it enables instant biosignal data visualization and recording out-of-the-box.”
 
-https://bitalino.com/en/
-https://bitalino.com/en/learn/get-started
+[https://bitalino.com/en/](https://bitalino.com/en/) / [https://bitalino.com/en/learn/get-started](https://bitalino.com/en/learn/get-started)
 
-Some of the sensors included in the kit are Electromyography (EMG), Electrocardiography (ECG), Electrodermal Activity (EDA), Electroencephalography (EEG), Accelerometer (ACC)
+Some of the sensors included in the Bitalino kit we used are Electromyography (EMG), Electrocardiography (ECG), Electrodermal Activity (EDA), Electroencephalography (EEG), Accelerometer (ACC)
 From the BioHakDag #1 : A Python script to get in the Bitalino data, and send it over OSC, tested on Mac OS Sierra, and with Python 3.7 and libraries mentioned here: https://github.com/BITalinoWorld/revolution-python-api
-There is also a Bitalino Max/MSP object available https://github.com/Ircam-RnD/bitalino-max
+There is also a [Bitalino Max/MSP object](https://github.com/Ircam-RnD/bitalino-max) available
 
 As many students seem to have difficulty in getting the Bitalino up-and-running, one of the R&D-colleagues of ECT experimented with the Bitalino.
 It is important to follow the online instructions, step-by-step. Also check if the sensor is connected to the correct input (beware : the information of the inputs is on the underside of the board, while it seems more logically to only look on the topside of the board).
-As Job said : “We zijn geneigd om vanaf boven te kijken en simpelweg te tellen wb poorten”
-Furthermore : “Data in tekstbestanden verdient geen schoonheidsprijs.” The data is primarily updated in a text file. This is not very practical for interactive applications. Bitalino offers an Arduino SDK, which should make more interactivity possible (without having to work with updated text-files).
+As Job said : *“We zijn geneigd om vanaf boven te kijken en simpelweg te tellen wb poorten”*
+Furthermore : *“Data in tekstbestanden verdient geen schoonheidsprijs.”* : The data is primarily updated in a text file.
+This is not very practical for realtime interactive applications. Bitalino offers an Arduino SDK, which should make more interactivity possible (without having to work with updated text-files).
 It’s also good to mention that the Bitalino hardware gives good and coherent results → apparently there is some Auto-calibration in the hardware.
 Is you connect the sensors directly to an Arduino this results in very noisy data, practically unusable, so use the Bitalino hardware with the sensors!
 Furthermore : ignore the urge to break the board in separate components (it really looks very inviting to do so), because this will require to make all the connections anew....
@@ -178,21 +189,44 @@ Furthermore : ignore the urge to break the board in separate components (it real
 Dit is een Blood pressure Monitor waarover weinig te vinden is online. Echter na wat snuffelen blijkt dat de monitor hoort bij de e-health sensor platform van cooking hack.
 [Main tutorial page of the e-health shield](https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical/)
 [Error in e-health arduino library](https://www.cooking-hacks.com/forum/viewtopic.php?f=20&t=6023)
+![Bloodpressure-IMG_0378.JPG](/blog/assets/images/Bloodpressure-IMG_0378.JPG)
 
 Het lijkt alsof je met de bloodpressure sensor alleen de gegevens in het geheugen kan uitlezen. Dus je kan alleen meetingen die al gedaan zijn uitlezen.
-Je verbindt hiervoor de hartslagmeter met de e-health shield die je op Arduino zet. Alleen als je nu in de Seriele monitor kijkt zou je de gegevens moeten kunnen binnen halen, maar dat werkt helaas niet..
+Je verbindt hiervoor de hartslagmeter met de e-health shield die je op Arduino zet.
+Alleen als je nu in de Seriele monitor kijkt zou je de gegevens moeten kunnen binnen halen, maar dat werkt helaas niet...
 
 
 
 ### Electro Muscle Stimulation (EMS)
 
-Filipe: "voordeel van EMS vs. trill motors is dat het een zeer specifieke sensatie is"
+student Filipe: "voordeel van EMS vs. trill motors is dat het een zeer specifieke sensatie is"
 Hans: "unpleasant feeling, too intrusive"
 Tested on arm, thumb.
 Experimented with size and form: too small form feels more 'painful', original (square) size seems best.
-More literature : Pedro Lopes EMS
-http://plopes.org/ems/#testingEMSmachine
+[More literature : Pedro Lopes EMS](http://plopes.org/ems/#testingEMSmachine)
 
+![EMS](/assets/images/EMS-IMG_0369.JPG)
+Evaluation by Hans Leeuw: "Electro Muscle Stimulation (EMS) is an interesting way of implementing a haptic experience. The method is much more intrusive though than haptic feedback through vibration motors or vibrating piezo elements."
+An email was send to Pedro Lopes by Hans, but there was no real answer to the issue of intrusiveness. The questions to Pedro remain open for now and is interesting to share:
+
+*"Finally had some time to look into muscle stimulation today. I did some experimenting together with students who also liked it.
+
+I have a number of questions though. I hope I do not ask questions that are answered in a technical article that I am not aware of...:
+
+We tried EMS on the thumb and the wrist. The electrodes that come with the TENS/EMS seem a bit large for the thumb. We used some scissors to cut them smaller but then did not really like the feeling. Are there special electrodes for fingers/thumb? Did you do any experimenting with fingers/thumb? I saw some gloves online for EMS. Is that something you have experience with?
+
+Overall I (and other people trying it) did not really like the feeling. Is that something you get used to over time? it was already better using short bursts on lower amplitude (I do not yet have an openEMSstim but we faked it by switching the battery of the TENS/EMS on and off). Despite the slight unpleasant feeling I can really see the benefits of EMS for my system and like to continue exploring.
+
+I found that I have a slightly different TENS/EMS version then you use in the video. Mine only goes to 100 Hz. I guess that should suffice? Controlling the EMS frequency over time is not something worth while to address I guess?
+
+I found this schematic for building the openEMSstim:
+https://hackaday.io/project/106571-neurocuddl/log/151521-electrical-stimulation-based-haptics
+
+Most components are SMD. I guess there are PCB prints somewhere? If not, did somebody already look into DIP alternatives? (Especially considering the Galvanic Isolation)
+
+Also considering the stim, if I look at the schematic, am I right that this is only for one channel?
+
+What I do not really understand is why there is both on/off (relais) and a Mosfet driver with mosfets. Can the on/off signal not simply be driving the mosfets high and low? Or is that too slow? And related to that, has there been experimentation with the LFO envelope over the EMS signal and what that does to response and possibly ‘pleasantness’ of the feeling?"*
 
 
 
