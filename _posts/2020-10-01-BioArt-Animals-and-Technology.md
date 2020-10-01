@@ -32,6 +32,11 @@ gallery:
     image_path: /assets/images/RC-Cockroach.jpg
     alt: "Bio Art?"
     title: "Bio Art?"
+  - url: /assets/images/bacterial-art.jpg
+    image_path: /assets/bacterial-art.jpg
+    alt: "Bio Art?"
+    title: "Bio Art?"
+
 
 ---
 
@@ -45,11 +50,11 @@ Vanuit het ECT hebben Kas Houthuijs en Than van Nispen een cursus "Art, Animals 
 Het ECT organiseert komende tijd meer activiteiten rondom 'Bio Art' ism deze beide heren, die beiden een achtergrond in zowel biologie & kunst hebben.
 Zij lieten zich met deze cursus nog wat bijspijkeren en inspireren op het vlak van repertoire en context, alsmede het internationale netwerk van Bio Art.
 
-De cursus [Art, Animals & Technology](http://schoolofma.org/art-and-animals.html)  werd gepresenteerd door Régina Debatty en behandelde een veelheid aan onderwerpen als het gaat om het gebruiken van de levende natuur en de koppeling aan kunst.
+De cursus [Art, Animals & Technology](http://schoolofma.org/art-and-animals.html)  werd gepresenteerd door [Régina Debatty](https://we-make-money-not-art.com) en behandelde een veelheid aan onderwerpen als het gaat om het gebruiken van de levende natuur en de koppeling aan kunst.
 Maatschappij-kritische onderwerpen kwamen ruim aan bod, zoals bio industrie (in "The Invisibilised Animals"), gevolgen van het Antropoceen en massale uitsterven van diersoorten.
-Maar ook werden veel kunst initiatieven gepresenteerd als oplossingen voor hedendaagse problemen van het Anthropoceen, zoals uitgestorven diersoorten weer 'tot leven te brengen' (zogeheten de-extinction programmes), of het grootbrengen van bedreigde diersoorten  (zoals [Ai Hasegawa die haar baarmoeder beschikbaar wil stellen om een Dolfijn te baren](https://aihasegawa.info/i-wanna-deliver-a-dolphin) ) en alternatieve ‘voedselbronnen’ zoals kweekvlees.
-
+Maar ook werden veel kunst initiatieven gepresenteerd als oplossingen voor hedendaagse problemen van het Anthropoceen, zoals uitgestorven diersoorten weer 'tot leven te brengen' (zogeheten de-extinction programmes), of het grootbrengen van bedreigde diersoorten  (zoals [Ai Hasegawa die haar baarmoeder beschikbaar wil stellen om een Dolfijn te baren](https://aihasegawa.info/i-wanna-deliver-a-dolphin) )
 ![Illustration I wanna deliver a dolphin](/blog/assets/images/ai-dolphin.jpg)
+en alternatieve ‘voedselbronnen’ zoals kweekvlees.
 
 
 Wist je bijvoorbeeld dat de initiatieven rondom 'kweekvlees' oorspronkelijk uit de kunstsector kwamen?
@@ -71,21 +76,20 @@ Ik kende het hele concept van feedlots nog niet, maar er zit een zekere 'dubbbel
 Meer feedlots op : [https://atlasofplaces.com/photography/feedlots/](https://atlasofplaces.com/photography/feedlots/)
 
 
-De onderwerpen waren mooi ingedeeld in thema's, zoals bijvoorbeeld 'Designing Animals', Taxidermy (het opzetten van dieren), Invasieve soorten, micro-organisme en insecten. De onderwerpen hadden meestal ook wel een link met een technische component. Of het nou ging over gen-technologie, kunstige bacteriekweek, of neurale regulatie (zoals de afstand bestuurbare kakkerlak-cyborgs), de combinatie van natuur, kunst en technologie was bijzonder prikkelend (zowel in inspirerende zin, als ethische dilemma's)!
+De onderwerpen waren mooi ingedeeld in thema's, zoals bijvoorbeeld 'Designing Animals', Taxidermy (het opzetten van dieren), Invasieve soorten, micro-organisme en insecten. De onderwerpen hadden meestal ook wel een link met een technische component. Of het nou ging over gen-technologie, [kunstige bacteriekweek](http://bacterialart.com), of neurale regulatie (zoals de afstandbestuurbare kakkerlak-cyborgs), de combinatie van natuur, kunst en technologie was bijzonder prikkelend (zowel in inspirerende zin, als ethische dilemma's)!
 
 
 
 Kas: “Het was erg inspirerend om de verschillende invalshoeken te ervaren, bijvoorbeeld over hoe er wordt gekeken naar het gebruik van levende organismen in de kunst versus in de wetenschap”.
 
 Than: "Een voordeel van deze (Corona)tijd is dat de cursus geheel online was en dat iedereen daar ondertussen aan gewend is. Op die manier gingen de online klassen erg soepel en konden mensen -letterlijk- vanuit de hele wereld meedoen.
-
 Er waren deelnemers vanuit Nieuw Zeeland en Singapore, tot aan de West-Kust van de Verenigde Staten. De verschillende tijdzones waren allemaal wel vertegenwoordigd.
 Via Breakout Rooms werden deelnemers soms in kleinere 'online kamers' geplaatst om een bepaald vraagstuk te bespreken en voor de rest was er de Slack Group waar chats en verdiepende links konden worden gedeeld".
 
 
 De pdf's van de presentatie-slides van Régina zijn in het bezit van het ECT en op aanvraag te verkrijgen.  
 
-Leestip voor méér : De Blog van Régina Debatty https://we-make-money-not-art.com   
+Leestip voor méér : De Blog van Régina Debatty [https://we-make-money-not-art.com](https://we-make-money-not-art.com)   
 
 
-{% include gallery caption="Bio Art impressions" %}
+{% include gallery caption="Bio Art impressions from Blogpost" %}
