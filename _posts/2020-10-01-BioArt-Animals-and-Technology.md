@@ -33,7 +33,7 @@ gallery:
     alt: "Bio Art?"
     title: "Bio Art?"
   - url: /assets/images/bacterial-art.jpg
-    image_path: /assets/bacterial-art.jpg
+    image_path: /assets/images/bacterial-art.jpg
     alt: "Bio Art?"
     title: "Bio Art?"
 
