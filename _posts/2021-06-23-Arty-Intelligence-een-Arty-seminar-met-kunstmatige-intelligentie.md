@@ -56,7 +56,7 @@ Het seminar is deels gebaseerd op eerdere workshops, masterclasses gegeven door 
 
 
 
-Arty Intelligence zelf
+## Arty Intelligence zelf
 Arty is een semi-pseudo bot die zichzelf op dag 1 introduceerde bij het -wegens Corona- volledig online HKU brede seminar “Arty Intelligence”. 
 [ [ inlay video “I am Arty”] ] https://youtu.be/m9kBIjJ28kw 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9kBIjJ28kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,7 +76,7 @@ Thema van deze seminar voor studenten was Kunstmatige Intelligentie in alle kuns
 
 
 
-“Reading the room” en samenwerken tijdens een Corona lockdown 
+## “Reading the room” en samenwerken tijdens een Corona lockdown 
 Het Arty Intelligence seminar werd praktisch educatief gezien gerealiseerd met als belangrijkste elementen het gebruik van Zoom, Discord en Mentimeter. Natuurlijk waren er voor de kunstmatige intelligentie allerlei tools die gebruikt werden, maar educatief gezien waren bovenstaande de belangrijkste platforms. 
 Discord
 Discord fungeerde als een soort van Clubhuis van Arty met daarin verschillende ruimtes, die de studenten zelf konden inrichten en vormgeven. Leuk detail daarbij was dat Arty zelf en een paar andere bots ook aanwezig waren in deze Discord. Vanzelfsprekend waren er AI-gegenereerde emojis : )
@@ -86,7 +86,7 @@ Discord werd gebruikt voor centrale communicatie, het samenwerken van de student
 
 [[ screenshot Discord ]] 
  
-Mentimeter - een Kahoot on steroids? 
+## Mentimeter - een Kahoot on steroids? 
 Dank zij Mentimeter.com konden we vanaf het allereerste begin van het seminar participatie met de (grote groep) deelnemers realiseren en hiermee tot groter engagement en betrokkenheid komen. 
 Een van de eerste (en soms laatste) slides waren zogeheten ‘mood meters’, die het enigszins mogelijk maakten om met een grote groep ‘the room temperature’ wat te lezen.
 
@@ -119,7 +119,7 @@ https://semiconductor.withgoogle.com/    
 Een leuk detail was dat studenten ook een punt konden krijgen door bij een van de Zoom-meetings te komen ‘als iets / iemand anders’. Bij een van de gastlezingen waren er meer kermit de kikker, Harry Potter en Barack Obama’s zichtbaar aanwezig dan reguliere studenten. Dat was overigens bij de allereerste gastlezing van het seminar, van Cristobal Valenzuela, oprichter en ontwikkelaar van RunwayML, die deze creativiteit duidelijk erg kon waarderen (en overigens alle gebruikte technieken herkende, van SnapCam / -Lens tot Avatarify). Cristobal heeft alle studenten die zich opgaven een tijdelijke upgrade gegeven voor hun Runway werkzaamheden, erg sympathiek!
 
 
-Arty the (semi)-pseudo-bot and his Discord friends bots 
+## Arty the (semi)-pseudo-bot and his Discord ~~friends~~ bots 
 Ondanks dat we in de voorbereiding veel plezier hebben gehad van (het inleven en spelen van) Arty, hebben de studenten er eigenlijk niet bijster veel mee gedaan. 
 In een eventuele volgende iteratie zou een apart toegewezen operator en acteur van toegevoegde waarde zijn om Arty meer leven in te blazen en deels een ‘suspension of disbelief’ te creëren. 
 In een volgende iteratie is daarnaast de ambitie om Arty en/of andere (Discord) bots de statistieken zoals de challenges-data automatisch te laten verwerken. Discord ondersteunt als platform het ontwikkelen van eigen bots.  
@@ -134,8 +134,9 @@ Daarnaast hadden álle studenten in het einde van week 1 de taak om een korte pr
 Qua onderwerpen ging dat van mode & AI, biased data / AI (die discrimineert), robots, geautomatiseerd journalisme, “stem klonen”, AI beeldhouwen, gameart, (improvisatie) theater, games en sexuele voorlichting.   
 Naast dat dit 
 
-Iedereen een 10 : Fantastische resultaten 
-“ik vond het tof dat ik nieuwe mensen heb leren kennen en nieuwe vrienden heb gemaakt”
+###Iedereen een 10 : Fantastische resultaten 
+> “ik vond het tof dat ik nieuwe mensen heb leren kennen en nieuwe vrienden heb gemaakt”
+
 Een volledige online seminar met in de evaluatie meldingen over dat studenten nieuwe mensen hebben leren kennen, een goede tijd hebben gehad en zelfs nieuwe vrienden hebben weten te maken is natuurlijk meer dan wij bij het ontwerpen van het seminar hadden durven hopen. Tijdens een Corona lockdown is dat misschien wel een van de mooiste resultaten.
 
 [[ afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen ]]
@@ -151,13 +152,13 @@ De muziek werd op gepaste manier gevisualiseerd.
 Een mooie combinatie van Runway middels OpenPose en OSC via Ableton en TouchDesigner. 
 [ [ Een video - fragment van de uitvoering via Zoom ] ] 
 
-“Reflection”
+## “Reflectie”
 De 10e groep had een neuraal netwerk getraind op gezichtsuitdrukkingen (met name verdrietig en blij) en daar een installatie “Reflection” op gerealiseerd waarbij de muziek en visuals veranderen naarmate de uitdrukking verandert. Samengevat een vorm van visualisatie en sonificatie van iemands mood!
 De muziek en visuals waren overigens óók met kunstmatige intelligentie tot stand gekomen (te weten Google’s Magenta, resp. ArtBreeder). 
 De totale realisatie maakte dan gebruik van Zoom, Python, Wekinator, Artbreeder, Magenta . 
 
 
-Documentatie 
+## Documentatie 
 Elke groep kon punten scoren (zie mini-challenges) middels een gedegen stukje documentatie. Iets van proces, iets van gebruikte middelen en technologie. 
 Het is indrukwekkend om te zien dat alle groepen een stuk documentatie wist in te leveren, maar ook het niveau was naar het oordeel van de docenten erg goed!
 
