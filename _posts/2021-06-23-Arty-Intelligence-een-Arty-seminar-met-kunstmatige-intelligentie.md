@@ -109,11 +109,12 @@ Het inzetten van deze methode hebben we dankbaar geleend van Niels Keetels die e
 De allereerste challenge (meteen goed voor 1 punt van de in totaal 20 te behalen punten) was een screenshot. Een screenshot van een van de 4 toepassingen waarbij je achter de webcam íets doet met beweging, pose en kunstmatige intelligentie. 
 Het ‘even bewegen en strekken’ na 45 minuten computertijd zat in zo’n challenge verwerkt, maar tevens het maken van een screenshot, het (leren) plaatsen op Discord, het ludiek kennis maken van elkaar, maar ook van de toegankelijkheid van bepaalde AI in je web browser!
 [[ afbeelding screenshots (onherkenbaar ]] 
-[[ inlay De 4 bewegings-toepassingen waren (installeer Chrome) 
-https://www.scroobly.com/ 
-https://www.billtjonesai.com/ 
-https://experiments.withgoogle.com/move-mirror
-https://semiconductor.withgoogle.com/    
+>
+>[[ inlay De 4 bewegings-toepassingen waren
+>[ https://www.scroobly.com/ ](https://www.scroobly.com/ )
+>[https://www.billtjonesai.com/ ]( https://www.billtjonesai.com/ )
+>[https://experiments.withgoogle.com/move-mirror ] ( https://experiments.withgoogle.com/move-mirror)
+>[https://semiconductor.withgoogle.com/ ](https://semiconductor.withgoogle.com/) >Deze toepassingen werken het beste in Google Chrome.  
 ]] 
 
 Een leuk detail was dat studenten ook een punt konden krijgen door bij een van de Zoom-meetings te komen ‘als iets / iemand anders’. Bij een van de gastlezingen waren er meer kermit de kikker, Harry Potter en Barack Obama’s zichtbaar aanwezig dan reguliere studenten. Dat was overigens bij de allereerste gastlezing van het seminar, van Cristobal Valenzuela, oprichter en ontwikkelaar van RunwayML, die deze creativiteit duidelijk erg kon waarderen (en overigens alle gebruikte technieken herkende, van SnapCam / -Lens tot Avatarify). Cristobal heeft alle studenten die zich opgaven een tijdelijke upgrade gegeven voor hun Runway werkzaamheden, erg sympathiek!
@@ -134,17 +135,20 @@ Daarnaast hadden álle studenten in het einde van week 1 de taak om een korte pr
 Qua onderwerpen ging dat van mode & AI, biased data / AI (die discrimineert), robots, geautomatiseerd journalisme, “stem klonen”, AI beeldhouwen, gameart, (improvisatie) theater, games en sexuele voorlichting.   
 Naast dat dit 
 
-###Iedereen een 10 : Fantastische resultaten 
+### Iedereen een 10 : Fantastische resultaten 
 > “ik vond het tof dat ik nieuwe mensen heb leren kennen en nieuwe vrienden heb gemaakt”
 
 Een volledige online seminar met in de evaluatie meldingen over dat studenten nieuwe mensen hebben leren kennen, een goede tijd hebben gehad en zelfs nieuwe vrienden hebben weten te maken is natuurlijk meer dan wij bij het ontwerpen van het seminar hadden durven hopen. Tijdens een Corona lockdown is dat misschien wel een van de mooiste resultaten.
 
-[[ afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen ]]
+![ afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen ](/blog/assets/images/Arty-Group-Photo-2021-compact.png)
+
 
 Daarnaast waren de uitkomsten van de 10 groepen allemaal uniek en allemaal indrukwekkend qua resultaat én niveau. 
 
 Zo was er een groepje die een Fake News pers conferentie van Mark Rutte wist te realiseren met video én geluid. Een tekst-generator in OpenAI GPT-2 (ondertussen heeft een select aantal docenten van HKU toegang tot GPT-3) was getraind op pers conferenties van Rutte. 
 Ivm het (beperkte) huidige niveau van text-to-speech AI, middels ‘voice cloning’, voor de Nederlandse taal koos de groep er uiteindelijk voor om de toespraak van Rutte toch in het Engels te houden. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hujIIvDuZKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [[ Deepfake fragment uit presentatie : https://youtu.be/hujIIvDuZKQ ]] 
 
 Een andere groep, de SmARTies, wist een interactief audio-visuele toepassing te maken, waarbij 4 personen achter hun webcam sámen muziek kunnen maken door verschillende poses en plaatsen in het beeld te exploreren. 
@@ -152,10 +156,13 @@ De muziek werd op gepaste manier gevisualiseerd.
 Een mooie combinatie van Runway middels OpenPose en OSC via Ableton en TouchDesigner. 
 [ [ Een video - fragment van de uitvoering via Zoom ] ] 
 
-## “Reflectie”
+### “Reflection”
 De 10e groep had een neuraal netwerk getraind op gezichtsuitdrukkingen (met name verdrietig en blij) en daar een installatie “Reflection” op gerealiseerd waarbij de muziek en visuals veranderen naarmate de uitdrukking verandert. Samengevat een vorm van visualisatie en sonificatie van iemands mood!
-De muziek en visuals waren overigens óók met kunstmatige intelligentie tot stand gekomen (te weten Google’s Magenta, resp. ArtBreeder). 
-De totale realisatie maakte dan gebruik van Zoom, Python, Wekinator, Artbreeder, Magenta . 
+De muziek en visuals waren overigens óók met kunstmatige intelligentie tot stand gekomen (te weten [Google’s Magenta](https://magenta.tensorflow.org/ ), resp. [ArtBreeder](https://www.artbreeder.com/ )). 
+De totale realisatie maakte dan gebruik van tenminste Zoom, Python, Wekinator, Artbreeder, Magenta . 
+
+![ Reflection uit work in progress sessie ](/blog/assets/images/Arty-presentation-faceOsc-Screenshot-2021-01-28.png)
+
 
 
 ## Documentatie 
