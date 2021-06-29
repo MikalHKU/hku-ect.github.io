@@ -120,7 +120,7 @@ Zo was de vraag
 zowel een dubbelcheck om te kijken of er nog werd opgelet op de laatste dag van week 1, maar tevens een manier om te onderstrepen wat belangrijke zaken zijn om te kennen. (Het juiste antwoord [DALL-E](https://openai.com/blog/dall-e/) is overigens een game changer voor de kunsten en veel andere toepassingen, net als GPT-3 dat op het moment van seminar al is).
 De vraag *wat A.I. eigenlijk betekent?* lijkt weliswaar ogenschijnlijk een triviale, maar tegelijkertijd vormde zo’n vraag dan een bruggetje naar het grotere plaatje van Machine Learning, algoritmes en Deep Learning. 
 
-{% include Menti-gallery caption="Een paar Mentimeter slides ter illustratie" %}
+
 
 ## mini-challenges 
 > Een seminar over Big Data kan natuurlijk niet zonder “Data”.
