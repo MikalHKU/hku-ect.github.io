@@ -3,9 +3,9 @@ title: "Arty Intelligence - een Arty seminar met kunstmatige intelligentie"
 excerpt: "HKU brede seminar"
 author: Than van Nispen
 header:
-  overlay_image: /assets/images/arty/Arty-Group-Photo-2021-compact.png
-  image_description: "Groepfoto Arty Intelligence 2021"
-  teaser: /assets/images/arty/Arty-Group-Photo-2021-compact.png
+  overlay_image: /assets/images/arty/Dom-Monet.jpeg
+  image_description: "Utrecht in the style of Monet by Arty"
+  teaser: /assets/images/arty/Dom-Monet.jpeg
 
 tags:
   - AI
@@ -77,21 +77,24 @@ Thema van deze seminar voor studenten was Kunstmatige Intelligentie in alle kuns
 
 
 ## “Reading the room” en samenwerken tijdens een Corona lockdown 
-Het Arty Intelligence seminar werd praktisch educatief gezien gerealiseerd met als belangrijkste elementen het gebruik van Zoom, Discord en Mentimeter. Natuurlijk waren er voor de kunstmatige intelligentie allerlei tools die gebruikt werden, maar educatief gezien waren bovenstaande de belangrijkste platforms. 
-Discord
+Het Arty Intelligence seminar werd praktisch educatief gezien gerealiseerd met als belangrijkste elementen het gebruik van Zoom, Discord en Mentimeter. Natuurlijk waren er voor de kunstmatige intelligentie allerlei tools die gebruikt werden, maar educatief gezien waren Zoom, Discord en Mentimeter de belangrijkste platforms. Het belang van die laatste 2 wordt hier toegelicht:
+
+### Discord
 Discord fungeerde als een soort van Clubhuis van Arty met daarin verschillende ruimtes, die de studenten zelf konden inrichten en vormgeven. Leuk detail daarbij was dat Arty zelf en een paar andere bots ook aanwezig waren in deze Discord. Vanzelfsprekend waren er AI-gegenereerde emojis : )
-[[ illustreer AI emojis ]] 
+[Illustratie van AI gegenereerde emojis waarmee in Discord kon worden gereageerd](/blog/assets/images/arty/AI-emoji-Discord-Screenshot.png)
+
 De kwaliteit en mogelijkheden van Discord op het gebied van (video-)bellen met grote groepen is beperkter dan de mogelijkheden van Zoom. Zodoende dat alle plenaire momenten, waaronder presentaties, via Zoom gingen. 
 Discord werd gebruikt voor centrale communicatie, het samenwerken van de studenten in een ‘online projectlokaal’ en het inleveren van de opdrachten (en mini-challenges). 
 
-[[ screenshot Discord ]] 
+![screenshot Discord](/blog/assets/images/arty/Arty-Discord-Opdracht-1-Screenshot-2021-02-02.png)
+*Discord in actie, op dag 1*
  
-## Mentimeter - een Kahoot on steroids? 
+### Mentimeter - een Kahoot on steroids? 
 Dank zij Mentimeter.com konden we vanaf het allereerste begin van het seminar participatie met de (grote groep) deelnemers realiseren en hiermee tot groter engagement en betrokkenheid komen. 
 Een van de eerste (en soms laatste) slides waren zogeheten ‘mood meters’, die het enigszins mogelijk maakten om met een grote groep ‘the room temperature’ wat te lezen.
 
 ![Illustratie 2 : Mentimeter als "mood meter"](/blog/assets/images/arty/Menti-Mood-Meter-Day-1.png)
-
+*Illustratie 2 : Mentimeter als "mood meter"*
 
 Daarnaast waren sommige ‘quizes’ en vragen bedoeld om te meten of delen van de besproken materie ook onthouden werden. Zo was de vraag ‘What is the name of the image generating version of GPT-3?’ zowel een dubbelcheck om te kijken of er nog werd opgelet op de laatste dag van week 1, maar tevens een manier om te onderstrepen wat belangrijke zaken zijn om te kennen (het juiste antwoord DALL-E is overigens een game changer voor de kunsten en veel andere toepassingen, net als GPT-3 dat al is).
 De vraag wat A.I. eigenlijk betekent lijkt weliswaar ogenschijnlijk een triviale, maar tegelijkertijd vormde zo’n vraag dan een bruggetje naar het grotere plaatje van Machine Learning, algoritmes en Deep Learning. 
@@ -111,15 +114,17 @@ De allereerste challenge (meteen goed voor 1 punt van de in totaal 20 te behalen
 Het ‘even bewegen en strekken’ na 45 minuten computertijd zat in zo’n challenge verwerkt, maar tevens het maken van een screenshot, het (leren) plaatsen op Discord, het ludiek kennis maken van elkaar, maar ook van de toegankelijkheid van bepaalde AI in je web browser!
 [[ afbeelding screenshots (onherkenbaar ]] 
 
->
->[[De 4 bewegings-toepassingen waren
+>De 4 bewegings-toepassingen waren
 >[ https://www.scroobly.com/ ](https://www.scroobly.com/ )
 >[https://www.billtjonesai.com/ ](https://www.billtjonesai.com/ )
 >[https://experiments.withgoogle.com/move-mirror ] (https://experiments.withgoogle.com/move-mirror)
 >[https://semiconductor.withgoogle.com/ ](https://semiconductor.withgoogle.com/)
+Deze toepassingen werken het beste in Google Chrome. 
 
->Deze toepassingen werken het beste in Google Chrome.  
-Een leuk detail was dat studenten ook een punt konden krijgen door bij een van de Zoom-meetings te komen ‘als iets / iemand anders’. Bij een van de gastlezingen waren er meer kermit de kikker, Harry Potter en Barack Obama’s zichtbaar aanwezig dan reguliere studenten. Dat was overigens bij de allereerste gastlezing van het seminar, van Cristobal Valenzuela, oprichter en ontwikkelaar van RunwayML, die deze creativiteit duidelijk erg kon waarderen (en overigens alle gebruikte technieken herkende, van SnapCam / -Lens tot Avatarify). Cristobal heeft alle studenten die zich opgaven een tijdelijke upgrade gegeven voor hun Runway werkzaamheden, erg sympathiek!
+
+Een leuk detail was dat studenten ook een punt konden krijgen door bij een van de Zoom-meetings te komen ‘als iets / iemand anders’. Bij een van de gastlezingen waren er meer kermit de kikker, Harry Potter en Barack Obama’s zichtbaar aanwezig dan reguliere studenten. 
+Dat was overigens het geval bij de allereerste gastlezing van het seminar, van Cristobal Valenzuela, oprichter en ontwikkelaar van ![RunwayML](http://runwayml.com/download/), die deze creativiteit duidelijk erg kon waarderen (en overigens alle gebruikte technieken herkende, van SnapCam / -Lens tot Avatarify). 
+Cristobal heeft alle studenten van het seminar een tijdelijke upgrade aangeboden voor hun Runway werkzaamheden, erg sympathiek!
 
 
 ## Arty the (semi)-pseudo-bot and his Discord ~~friends~~ bots 
@@ -145,7 +150,7 @@ Qua onderwerpen ging dat van mode & AI, biased data / AI die discrimineert, robo
 Een volledige online seminar met in de evaluatie meldingen over dat studenten nieuwe mensen hebben leren kennen, een goede tijd hebben gehad en zelfs nieuwe vrienden hebben weten te maken is natuurlijk meer dan wij bij het ontwerpen van het seminar hadden durven hopen. Tijdens een Corona lockdown is dat misschien wel een van de mooiste resultaten.
 
 ![ afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen ](/blog/assets/images/arty/Arty-Group-Photo-2021-compact.png)
-
+*afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen*
 
 Daarnaast waren de uitkomsten van de 10 groepen allemaal uniek en allemaal indrukwekkend qua resultaat én niveau. 
 
