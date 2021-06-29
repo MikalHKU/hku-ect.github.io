@@ -109,14 +109,15 @@ Het inzetten van deze methode hebben we dankbaar geleend van Niels Keetels die e
 De allereerste challenge (meteen goed voor 1 punt van de in totaal 20 te behalen punten) was een screenshot. Een screenshot van een van de 4 toepassingen waarbij je achter de webcam íets doet met beweging, pose en kunstmatige intelligentie. 
 Het ‘even bewegen en strekken’ na 45 minuten computertijd zat in zo’n challenge verwerkt, maar tevens het maken van een screenshot, het (leren) plaatsen op Discord, het ludiek kennis maken van elkaar, maar ook van de toegankelijkheid van bepaalde AI in je web browser!
 [[ afbeelding screenshots (onherkenbaar ]] 
->
->[[ inlay De 4 bewegings-toepassingen waren
->[ https://www.scroobly.com/ ](https://www.scroobly.com/ )
->[https://www.billtjonesai.com/ ]( https://www.billtjonesai.com/ )
->[https://experiments.withgoogle.com/move-mirror ] ( https://experiments.withgoogle.com/move-mirror)
->[https://semiconductor.withgoogle.com/ ](https://semiconductor.withgoogle.com/) >Deze toepassingen werken het beste in Google Chrome.  
-]] 
 
+>
+>[[De 4 bewegings-toepassingen waren
+>[ https://www.scroobly.com/ ](https://www.scroobly.com/ )
+>[https://www.billtjonesai.com/ ](https://www.billtjonesai.com/ )
+>[https://experiments.withgoogle.com/move-mirror ] (https://experiments.withgoogle.com/move-mirror)
+>[https://semiconductor.withgoogle.com/ ](https://semiconductor.withgoogle.com/)
+
+>Deze toepassingen werken het beste in Google Chrome.  
 Een leuk detail was dat studenten ook een punt konden krijgen door bij een van de Zoom-meetings te komen ‘als iets / iemand anders’. Bij een van de gastlezingen waren er meer kermit de kikker, Harry Potter en Barack Obama’s zichtbaar aanwezig dan reguliere studenten. Dat was overigens bij de allereerste gastlezing van het seminar, van Cristobal Valenzuela, oprichter en ontwikkelaar van RunwayML, die deze creativiteit duidelijk erg kon waarderen (en overigens alle gebruikte technieken herkende, van SnapCam / -Lens tot Avatarify). Cristobal heeft alle studenten die zich opgaven een tijdelijke upgrade gegeven voor hun Runway werkzaamheden, erg sympathiek!
 
 
@@ -124,7 +125,9 @@ Een leuk detail was dat studenten ook een punt konden krijgen door bij een van d
 Ondanks dat we in de voorbereiding veel plezier hebben gehad van (het inleven en spelen van) Arty, hebben de studenten er eigenlijk niet bijster veel mee gedaan. 
 In een eventuele volgende iteratie zou een apart toegewezen operator en acteur van toegevoegde waarde zijn om Arty meer leven in te blazen en deels een ‘suspension of disbelief’ te creëren. 
 In een volgende iteratie is daarnaast de ambitie om Arty en/of andere (Discord) bots de statistieken zoals de challenges-data automatisch te laten verwerken. Discord ondersteunt als platform het ontwikkelen van eigen bots.  
-Gastlezingen - Een groot aantal gastsprekers. 
+
+## Gastlezingen - Een groot aantal gastsprekers, inclusief de studenten. 
+
 In de voorbereiding van het seminar was de wens om zowel technisch als creatief&artistiek, maar ook zowel zakelijke als morele aspecten de revue te laten passeren. 
  gastsprekers betroffen dan ook o.a. 
 Cristobal Valenzuela - 
@@ -132,15 +135,15 @@ Janne Spijkervet -
 Stefan Leijnen en Ouren Kuiper - . . . . 
 
 Daarnaast hadden álle studenten in het einde van week 1 de taak om een korte presentatie te geven over een onderwerp naar keuze, mits het maar ook iets te maken had met kunstmatige intelligentie. Zodoende hadden we tegen de 40 inhoudelijke presentaties, oftewel ‘een groot aantal gastsprekers’. De studenten hadden zich individueel verdiept in één onderwerp en daar een korte presentatie van gegeven. 
-Qua onderwerpen ging dat van mode & AI, biased data / AI (die discrimineert), robots, geautomatiseerd journalisme, “stem klonen”, AI beeldhouwen, gameart, (improvisatie) theater, games en sexuele voorlichting.   
-Naast dat dit 
+Qua onderwerpen ging dat van mode & AI, biased data / AI die discrimineert, robots, geautomatiseerd journalisme, “stem klonen”, AI beeldhouwen, gameart, (improvisatie) theater, games en sexuele voorlichting.   
 
-### Iedereen een 10 : Fantastische resultaten 
+
+### Iedereen een 10 : Fantastische eindresultaten 
 > “ik vond het tof dat ik nieuwe mensen heb leren kennen en nieuwe vrienden heb gemaakt”
 
 Een volledige online seminar met in de evaluatie meldingen over dat studenten nieuwe mensen hebben leren kennen, een goede tijd hebben gehad en zelfs nieuwe vrienden hebben weten te maken is natuurlijk meer dan wij bij het ontwerpen van het seminar hadden durven hopen. Tijdens een Corona lockdown is dat misschien wel een van de mooiste resultaten.
 
-![ afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen ](/blog/assets/images/Arty-Group-Photo-2021-compact.png)
+![ afbeelding groepsfoto tijdens Corona Lockdown, met AI automatisch geknipt uit Zoom-afbeeldingen ](/blog/assets/images/arty/Arty-Group-Photo-2021-compact.png)
 
 
 Daarnaast waren de uitkomsten van de 10 groepen allemaal uniek en allemaal indrukwekkend qua resultaat én niveau. 
@@ -161,7 +164,7 @@ De 10e groep had een neuraal netwerk getraind op gezichtsuitdrukkingen (met name
 De muziek en visuals waren overigens óók met kunstmatige intelligentie tot stand gekomen (te weten [Google’s Magenta](https://magenta.tensorflow.org/ ), resp. [ArtBreeder](https://www.artbreeder.com/ )). 
 De totale realisatie maakte dan gebruik van tenminste Zoom, Python, Wekinator, Artbreeder, Magenta . 
 
-![ Reflection uit work in progress sessie ](/blog/assets/images/Arty-presentation-faceOsc-Screenshot-2021-01-28.png)
+![ Screenshot uit work in progress sessie over "Reflection" ](/blog/assets/images/arty/Arty-presentation-faceOsc-Screenshot-2021-01-28.png)
 
 
 
@@ -169,8 +172,9 @@ De totale realisatie maakte dan gebruik van tenminste Zoom, Python, Wekinator, A
 Elke groep kon punten scoren (zie mini-challenges) middels een gedegen stukje documentatie. Iets van proces, iets van gebruikte middelen en technologie. 
 Het is indrukwekkend om te zien dat alle groepen een stuk documentatie wist in te leveren, maar ook het niveau was naar het oordeel van de docenten erg goed!
 
-Meer Arty Intelligence! 
-Mocht je na het lezen van dit verhaal geïnteresseerd zijn in die documentatie, of breder in het seminar en/of kunstmatige intelligentie voor de kunsten, neem dan vooral contact op met Than van Nispen [[ contact ]] . 
+
+## Meer Arty Intelligence! 
+Mocht je na het lezen van dit verhaal geïnteresseerd zijn in die documentatie, of breder in het seminar en/of kunstmatige intelligentie voor de kunsten, neem dan vooral contact op met het Expertisecentrum voor Creatieve technologie en/of met [Than van Nispen](than.vannispen@hku.nl) . 
 
 
 {% include gallery caption="Arty Intelligence impressies uit deze Blogpost" %}
