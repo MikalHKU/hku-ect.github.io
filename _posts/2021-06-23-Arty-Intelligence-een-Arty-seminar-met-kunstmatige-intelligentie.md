@@ -13,23 +13,23 @@ tags:
   - Art
 
 gallery:
-  - url: /assets/images/arty/Mentimeter-best-achievements-slide.png
-    image_path: /assets/images/Mentimeter-best-achievements-slide.png
-    alt: "Groepfoto Arty Intelligence 2021"
-    title: "Groepfoto Arty Intelligence 2021"
+
   - url: /assets/images/arty/Menti-day1-al-iets-leuks.png
     image_path: /assets/images/arty/Menti-day1-al-iets-leuks.png
-    alt: "Reading the Room (with online classes) - Mentimeter "
-    title: "Reading the Room (with online classes) - Mentimeter "
+    alt: "Vond je al iets leuk en/of interessant - Mentimeter "
+    title: "Vond je al iets leuk en/of interessant - Mentimeter "
   - url: /assets/images/arty/Menti-day1-al-iets-met-AI.png
     image_path: /assets/images/arty/Menti-day1-al-iets-met-AI.png
-    alt: "Big Data in action"
-    title: "Big Data in action"
+    alt: "Al iets met AI?"
+    title: "Al iets met AI?"
   - url: /assets/images/arty/Menti-day1-hoe-technisch.png
     image_path: /assets/images/arty/Menti-day1-hoe-technisch.png
-    alt: "Google on Arty"
-    title: "Google on Arty"
-
+    alt: "Hoe technisch schat je jezelf in?"
+    title: "Hoe technisch schat je jezelf in?"
+  - url: /assets/images/arty/Mentimeter-best-achievements-slide.png
+    image_path: /assets/images/Mentimeter-best-achievements-slide.png
+    alt: "Mentimeter Personal best achievement"
+    title: "Mentimeter Personal best achievement"
 ---
 
 
@@ -105,6 +105,9 @@ In tussentijdse overzichten (rond het einde van week 1) werd duidelijk wie er vo
 Voor de docenten was het daarnaast zeer inzichtelijk om mee te krijgen welk van de studenten achter begon te raken en te benaderen via Discord en/of e-mail. 
 Met name de studenten die na een paar dagen eigenlijk nog vrijwel geen punten hadden bleken allen ‘omstandigheden’ te hebben, waardoor ze achter aan het raken waren. Ze voelden zich wel gezien en gehoord door deze betrokkenheid en hebben allen hun achterstand weten in te werken.
 ‘Onzichtbaar’ (niet) meedoen aan het seminar was door deze benadering met challenges eigenlijk niet mogelijk. 
+![ afbeelding "Big Data in action", tussenstanden mini-challenges ](/blog/assets/images/arty/Arty-Standings-Screenshot-2021-01-24.png)
+*afbeelding "Big Data in action", tussenstanden mini-challenges*
+
 
 Het inzetten van deze methode hebben we dankbaar geleend van Niels Keetels die een soortgelijk systeem in zijn internationale Applied Gamejams inzet. De automagische statistiek-uitwerking welke wij destijds in voor zo’n GameJam in Zuid-Korea ontwikkelden konden we in dit seminar goed inzetten. 
 
@@ -114,7 +117,7 @@ Het ‘even bewegen en strekken’ na 45 minuten computertijd zat in zo’n chal
 >De 4 bewegings-toepassingen waren
 >[ https://www.scroobly.com/ ](https://www.scroobly.com/ )
 >[https://www.billtjonesai.com/ ](https://www.billtjonesai.com/ )
->[https://experiments.withgoogle.com/move-mirror ] (https://experiments.withgoogle.com/move-mirror)
+>[https://experiments.withgoogle.com/move-mirror/](https://experiments.withgoogle.com/move-mirror)
 >[https://semiconductor.withgoogle.com/ ](https://semiconductor.withgoogle.com/)
 Deze toepassingen werken het beste in Google Chrome. 
 
