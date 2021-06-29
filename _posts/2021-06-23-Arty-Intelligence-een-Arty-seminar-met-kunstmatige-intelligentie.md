@@ -137,11 +137,13 @@ In een volgende iteratie is daarnaast de ambitie om Arty en/of andere (Discord) 
 
 In de voorbereiding van het seminar was de wens om zowel technisch als creatief&artistiek, maar ook zowel zakelijke als morele aspecten de revue te laten passeren. 
 Een aantal van de gastsprekers betroffen dan ook o.a. 
-Cristobal Valenzuela - founding father en CEO van [RunwayML](http://runwayml.com/)
+**Cristobal Valenzuela** - founding father en CEO van [RunwayML](http://runwayml.com/)
 Runway is een super gebruikersvriendelijke suite aan machine learning modellen, specifiek gericht op het maken van nieuwe kunst(toepassingen). Er is geen technische kennis nodig om aan de slag te gaan met Runway, maar met enige technische bagage is Runway goed en makkelijk in te zetten in diverse creatieve toepassingen. Runway is namelijk te koppelen aan andere toepassingen via OSC, maar ook JSON en Nodejs.
 Mooi is ook de mogelijkheid om bestaande modellen 'bij te trainen' op eigen datasets. 
  
-Janne Spijkervet - Janne is alumna van de HKU (Music & Technology), heeft een Master Kunstmatige Intelligentie gedaan en momenteel sinds kort werkzaam bij TikTok. Janne had een zeer inspirerend verhaal over hoe je een neuraal netwerk nou eigenlijk traint op muziek en hoe je daar Nederlandse smartlappen mee maakt, of 3e wordt bij het AI Songfestival 2020 (!)
+Janne Spijkervet - Janne is alumna van de HKU (Music & Technology), heeft een Master Kunstmatige Intelligentie gedaan en is momenteel sinds kort werkzaam bij TikTok. Janne had een zeer inspirerend verhaal over hoe je een neuraal netwerk nou eigenlijk traint op muziek en hoe je daar Nederlandse smartlappen mee maakt, of 3e wordt bij het AI Songfestival 2020 (!) 
+De op het moment van seminar gloednieuwe tv serie "Locked Out" had ook een DeepFake van haar hand.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eE4lgGJxd6A?start=670" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Stefan Leijnen en Ouren Kuiper - Stefan Leijnen is lector AI aan de HU en initiatiefnemer van The Asimov Institute en Ouren Kuiper is onderzoeker bij het lectoraat van Stefan. Deze interactieve presentatie ging volledig over ethiek.
 
@@ -165,10 +167,10 @@ Ivm het (beperkte) huidige niveau van text-to-speech AI, middels ‘voice clonin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hujIIvDuZKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [[ Deepfake fragment uit presentatie : https://youtu.be/hujIIvDuZKQ ]] 
 
-Een andere groep, de SmARTies, wist een interactief audio-visuele toepassing te maken, waarbij 4 personen achter hun webcam sámen muziek kunnen maken door verschillende poses en plaatsen in het beeld te exploreren. 
+Een andere groep, de SmARTies, wist een interactief audio-visuele toepassing te maken, waarbij 4 personen achter hun webcam sámen via Zoom muziek kunnen maken door verschillende poses en plaatsen in het beeld te exploreren. 
 De muziek werd op gepaste manier gevisualiseerd. 
-Een mooie combinatie van Runway middels OpenPose en OSC via Ableton en TouchDesigner. 
-[ [ Een video - fragment van de uitvoering via Zoom ] ] 
+Een mooie combinatie van Runway middels OpenPose en OSC via Ableton en TouchDesigner vertoond in Zoom. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UY6mbxE7Am0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### “Reflection”
 De 10e groep had een neuraal netwerk getraind op gezichtsuitdrukkingen (met name verdrietig en blij) en daar een installatie “Reflection” op gerealiseerd waarbij de muziek en visuals veranderen naarmate de uitdrukking verandert. Samengevat een vorm van visualisatie en sonificatie van iemands mood!
