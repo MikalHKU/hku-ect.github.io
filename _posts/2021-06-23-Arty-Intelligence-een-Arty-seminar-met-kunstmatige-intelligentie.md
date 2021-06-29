@@ -11,33 +11,8 @@ tags:
   - AI
   - Artificial Intelligence
   - Art
-gallery:
-  - url: /assets/images/arty/Arty-Group-Photo-2021-compact.png
-    image_path: /assets/images/Arty-Group-Photo-2021-compact.png
-    alt: "Groepfoto Arty Intelligence 2021"
-    title: "Groepfoto Arty Intelligence 2021"
-  - url: /assets/images/arty/Menti-Mood-Meter-Day-1.png
-    image_path: /assets/images/arty/Menti-Mood-Meter-Day-1.png
-    alt: "Reading the Room (with online classes) - Mentimeter "
-    title: "Reading the Room (with online classes) - Mentimeter "
-  - url: /assets/images/arty/Arty-Standings-Screenshot-2021-01-24.png
-    image_path: /assets/images/arty/Arty-Standings-Screenshot-2021-01-24.png
-    alt: "Big Data in action"
-    title: "Big Data in action"
-  - url: /assets/images/arty/Google-on-Arty-Screenshot-2020-12-11.png
-    image_path: /assets/images/arty/Google-on-Arty-Screenshot-2020-12-11.png
-    alt: "Google on Arty"
-    title: "Google on Arty"
-  - url: /assets/images/arty/Arty-presentation-faceOsc-Screenshot-2021-01-28.png
-    image_path: /assets/images/arty/Arty-presentation-faceOsc-Screenshot-2021-01-28.png
-    alt: "gezichtsherkenning als onderdeel van een interactieve creatieve toepassing"
-    title: "gezichtsherkenning als onderdeel van een interactieve creatieve toepassing"
-  - url: /assets/images/arty/Arty-Discord-Opdracht-1-Screenshot 2021-02-02.png
-    image_path: /assets/images/arty/Arty-Discord-Opdracht-1-Screenshot 2021-02-02.png
-    alt: "Opdracht 1 : een screenshot in actie"
-    title: "Opdracht 1 : een screenshot in actie"
 
-Menti-gallery:
+gallery:
   - url: /assets/images/arty/Mentimeter-best-achievements-slide.png
     image_path: /assets/images/Mentimeter-best-achievements-slide.png
     alt: "Groepfoto Arty Intelligence 2021"
@@ -116,11 +91,11 @@ Een van de eerste (en soms laatste) slides waren zogeheten ‘mood meters’, di
 
 Daarnaast waren sommige ‘quizes’ en vragen bedoeld om te meten of delen van de besproken materie ook onthouden werden. 
 Zo was de vraag 
->*‘What is the name of the image generating version of GPT-3?’* 
+*‘What is the name of the image generating version of GPT-3?’* 
 zowel een dubbelcheck om te kijken of er nog werd opgelet op de laatste dag van week 1, maar tevens een manier om te onderstrepen wat belangrijke zaken zijn om te kennen. (Het juiste antwoord [DALL-E](https://openai.com/blog/dall-e/) is overigens een game changer voor de kunsten en veel andere toepassingen, net als GPT-3 dat op het moment van seminar al is).
 De vraag *wat A.I. eigenlijk betekent?* lijkt weliswaar ogenschijnlijk een triviale, maar tegelijkertijd vormde zo’n vraag dan een bruggetje naar het grotere plaatje van Machine Learning, algoritmes en Deep Learning. 
 
-
+{% include gallery caption="Een paar Mentimeter slides ter illustratie" %}
 
 ## mini-challenges 
 > Een seminar over Big Data kan natuurlijk niet zonder “Data”.
