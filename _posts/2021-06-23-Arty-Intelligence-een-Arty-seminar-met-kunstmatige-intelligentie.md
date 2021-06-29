@@ -37,7 +37,24 @@ gallery:
     alt: "Opdracht 1 : een screenshot in actie"
     title: "Opdracht 1 : een screenshot in actie"
 
-
+Menti-gallery:
+  - url: /assets/images/arty/Mentimeter-best-achievements-slide.png
+    image_path: /assets/images/Mentimeter-best-achievements-slide.png
+    alt: "Groepfoto Arty Intelligence 2021"
+    title: "Groepfoto Arty Intelligence 2021"
+  - url: /assets/images/arty/Menti-day1-al-iets-leuks.png
+    image_path: /assets/images/arty/Menti-day1-al-iets-leuks.png
+    alt: "Reading the Room (with online classes) - Mentimeter "
+    title: "Reading the Room (with online classes) - Mentimeter "
+  - url: /assets/images/arty/Menti-day1-al-iets-met-AI.png
+    image_path: /assets/images/arty/Menti-day1-al-iets-met-AI.png
+    alt: "Big Data in action"
+    title: "Big Data in action"
+  - url: /assets/images/arty/Menti-day1-hoe-technisch.png
+    image_path: /assets/images/arty/Menti-day1-hoe-technisch.png
+    alt: "Google on Arty"
+    title: "Google on Arty"
+
 ---
 
 
@@ -82,7 +99,7 @@ Het Arty Intelligence seminar werd praktisch educatief gezien gerealiseerd met a
 
 ### Discord
 Discord fungeerde als een soort van Clubhuis van Arty met daarin verschillende ruimtes, die de studenten zelf konden inrichten en vormgeven. Leuk detail daarbij was dat Arty zelf en een paar andere bots ook aanwezig waren in deze Discord. Vanzelfsprekend waren er AI-gegenereerde emojis : )
-[Illustratie van AI gegenereerde emojis waarmee in Discord kon worden gereageerd](/blog/assets/images/arty/AI-emoji-Discord-Screenshot.png)
+![Illustratie van AI gegenereerde emojis waarmee in Discord kon worden gereageerd](/blog/assets/images/arty/AI-emoji-Discord-Screenshot.png)
 
 De kwaliteit en mogelijkheden van Discord op het gebied van (video-)bellen met grote groepen is beperkter dan de mogelijkheden van Zoom. Zodoende dat alle plenaire momenten, waaronder presentaties, via Zoom gingen. 
 Discord werd gebruikt voor centrale communicatie, het samenwerken van de studenten in een ‘online projectlokaal’ en het inleveren van de opdrachten (en mini-challenges). 
@@ -97,10 +114,13 @@ Een van de eerste (en soms laatste) slides waren zogeheten ‘mood meters’, di
 ![Illustratie 2 : Mentimeter als "mood meter"](/blog/assets/images/arty/Menti-Mood-Meter-Day-1.png)
 *Illustratie 2 : Mentimeter als "mood meter"*
 
-Daarnaast waren sommige ‘quizes’ en vragen bedoeld om te meten of delen van de besproken materie ook onthouden werden. Zo was de vraag *‘What is the name of the image generating version of GPT-3?’* zowel een dubbelcheck om te kijken of er nog werd opgelet op de laatste dag van week 1, maar tevens een manier om te onderstrepen wat belangrijke zaken zijn om te kennen (het juiste antwoord [DALL-E](https://openai.com/blog/dall-e/) is overigens een game changer voor de kunsten en veel andere toepassingen, net als GPT-3 dat op het moment van seminar al is).
-De vraag wat A.I. eigenlijk betekent lijkt weliswaar ogenschijnlijk een triviale, maar tegelijkertijd vormde zo’n vraag dan een bruggetje naar het grotere plaatje van Machine Learning, algoritmes en Deep Learning. 
+Daarnaast waren sommige ‘quizes’ en vragen bedoeld om te meten of delen van de besproken materie ook onthouden werden. 
+Zo was de vraag 
+>*‘What is the name of the image generating version of GPT-3?’* 
+zowel een dubbelcheck om te kijken of er nog werd opgelet op de laatste dag van week 1, maar tevens een manier om te onderstrepen wat belangrijke zaken zijn om te kennen. (Het juiste antwoord [DALL-E](https://openai.com/blog/dall-e/) is overigens een game changer voor de kunsten en veel andere toepassingen, net als GPT-3 dat op het moment van seminar al is).
+De vraag *wat A.I. eigenlijk betekent?* lijkt weliswaar ogenschijnlijk een triviale, maar tegelijkertijd vormde zo’n vraag dan een bruggetje naar het grotere plaatje van Machine Learning, algoritmes en Deep Learning. 
 
-[[ paar slides van MentiMeter als illustratie ]] 
+{% include Menti-gallery caption="Een paar Mentimeter slides ter illustratie" %}
 
 ## mini-challenges 
 > Een seminar over Big Data kan natuurlijk niet zonder “Data”.
