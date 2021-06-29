@@ -27,7 +27,7 @@ gallery:
     alt: "Hoe technisch schat je jezelf in?"
     title: "Hoe technisch schat je jezelf in?"
   - url: /assets/images/arty/Mentimeter-best-achievements-slide.png
-    image_path: /assets/images/Mentimeter-best-achievements-slide.png
+    image_path: /assets/images/arty/Mentimeter-best-achievements-slide.png
     alt: "Mentimeter Personal best achievement"
     title: "Mentimeter Personal best achievement"
 ---
@@ -136,15 +136,16 @@ In een volgende iteratie is daarnaast de ambitie om Arty en/of andere (Discord) 
 
 In de voorbereiding van het seminar was de wens om zowel technisch als creatief&artistiek, maar ook zowel zakelijke als morele aspecten de revue te laten passeren. 
 Een aantal van de gastsprekers betroffen dan ook o.a. 
+
 **Cristobal Valenzuela** - founding father en CEO van [RunwayML](http://runwayml.com/)
 Runway is een super gebruikersvriendelijke suite aan machine learning modellen, specifiek gericht op het maken van nieuwe kunst(toepassingen). Er is geen technische kennis nodig om aan de slag te gaan met Runway, maar met enige technische bagage is Runway goed en makkelijk in te zetten in diverse creatieve toepassingen. Runway is namelijk te koppelen aan andere toepassingen via OSC, maar ook JSON en Nodejs.
 Mooi is ook de mogelijkheid om bestaande modellen 'bij te trainen' op eigen datasets. 
  
-Janne Spijkervet - Janne is alumna van de HKU (Music & Technology), heeft een Master Kunstmatige Intelligentie gedaan en is momenteel sinds kort werkzaam bij TikTok. Janne had een zeer inspirerend verhaal over hoe je een neuraal netwerk nou eigenlijk traint op muziek en hoe je daar Nederlandse smartlappen mee maakt, of 3e wordt bij het AI Songfestival 2020 (!) 
+**Janne Spijkervet** - Janne is alumna van de HKU (Music & Technology), heeft een Master Kunstmatige Intelligentie gedaan en is momenteel sinds kort werkzaam bij TikTok. Janne had een zeer inspirerend verhaal over hoe je een neuraal netwerk nou eigenlijk traint op muziek en hoe je daar Nederlandse smartlappen mee maakt, of 3e wordt bij het AI Songfestival 2020 (!) 
 De op het moment van seminar gloednieuwe tv serie "Locked Out" had ook een DeepFake van haar hand.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eE4lgGJxd6A?start=670" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Stefan Leijnen en Ouren Kuiper - Stefan Leijnen is lector AI aan de HU en initiatiefnemer van The Asimov Institute en Ouren Kuiper is onderzoeker bij het lectoraat van Stefan. Deze interactieve presentatie ging volledig over ethiek.
+**Stefan Leijnen en Ouren Kuiper** - Stefan Leijnen is lector AI aan de HU en initiatiefnemer van The Asimov Institute en Ouren Kuiper is onderzoeker bij het lectoraat van Stefan. Deze interactieve presentatie ging volledig over ethiek.
 
 Daarnaast hadden álle studenten in het einde van week 1 de taak om een korte presentatie te geven over een onderwerp naar keuze, mits het maar ook iets te maken had met kunstmatige intelligentie. Zodoende hadden we tegen de 40 inhoudelijke presentaties, oftewel ‘een groot aantal gastsprekers’. De studenten hadden zich individueel verdiept in één onderwerp en daar een korte presentatie van gegeven. 
 Qua onderwerpen ging dat van mode & AI, biased data / AI die discrimineert, robots, geautomatiseerd journalisme, “stem klonen”, AI beeldhouwen, gameart, (improvisatie) theater, games en sexuele voorlichting.   
@@ -186,7 +187,5 @@ Het is indrukwekkend om te zien dat alle groepen een stuk documentatie wist in t
 
 
 ## Meer Arty Intelligence! 
-Mocht je na het lezen van dit verhaal geïnteresseerd zijn in die [documentatie](#documentatie), of breder in het seminar en/of kunstmatige intelligentie voor de kunsten, neem dan vooral contact op met het Expertisecentrum voor Creatieve technologie en/of met [Than van Nispen](than.vannispen@hku.nl) . 
+Mocht je na het lezen van dit verhaal geïnteresseerd zijn in die [documentatie](#documentatie), of breder in het seminar "Arty Intelligence" en/of kunstmatige intelligentie voor de kunsten, neem dan vooral contact op met het Expertisecentrum voor Creatieve technologie en/of met [Than van Nispen](than.vannispen@hku.nl) . 
 
-
-{% include gallery caption="Arty Intelligence impressies uit deze Blogpost" %}
