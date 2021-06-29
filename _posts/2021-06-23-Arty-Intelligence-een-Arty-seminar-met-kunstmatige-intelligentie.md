@@ -44,21 +44,21 @@ gallery:
 # Arty Intelligence
 
 ## een Arty seminar met kunstmatige intelligentie
-Arty Intelligence - een Arty seminar met kunstmatige intelligentie
-Sinds 2021 heeft HKU een seminar er bij, een seminar over en met kunstmatige intelligentie in de context van de Kunsten!
+> Arty Intelligence - een Arty seminar met kunstmatige intelligentie
+> Sinds 2021 heeft HKU een seminar er bij, een seminar over en met kunstmatige intelligentie in de context van de Kunsten!
 
 In de beschrijving van deze HKU brede seminar stond dat je “in groepen met studenten vanuit diverse opleidingen aan de slag gaat met ‘een toepassing’ met, van en/of rondom kunst(matige) intelligentie”.
 De uiteindelijke toepassingen van de student groepen mocht alle kanten op gaan, maar te denken valt aan een installatie, uitvoering, kunstwerk, film vertoning, game, concert en/of product. 
 In de 1e van de 2 weken stonden inspiratie en exploratie van Artificial Intelligence (A.I.) centraal. Aan het einde van die 1e week had elke groep een concept ontwikkeld welke in de 2e week verder uitgewerkt werd. Daarnaast waren er vele inspiratie-sessies met bijv. gastsprekers.
 
-Het seminar is deels gebaseerd op eerdere workshops, masterclasses gegeven door het Expertisecentrum voor Creatieve Technologie (ECT), alsmede AI dag bij Music & Technology (MT) en is ontwikkeld en gerealiseerd in een samenwerking tussen ECT, MT en K&E. K&E is de school van waaruit het seminar wordt georganiseerd . [Links]
+Het seminar is deels gebaseerd op [eerdere workshops](https://pong.hku.nl/blog/machine-learning/), masterclasses gegeven door het [Expertisecentrum voor Creatieve Technologie (ECT)](https://www.hku.nl/onderzoek-en-expertise/expertisecentra/expertisecentrum-creatieve-technologie), alsmede AI dag bij [Music & Technology (MT)](https://www.hku.nl/studeren-aan-hku/muziek-en-technologie) en is ontwikkeld en gerealiseerd in een samenwerking tussen ECT, MT en Kunst & Economie (K&E). [K&E](https://www.hku.nl/studeren-aan-hku/kunst-en-economie) is de school van waaruit het seminar wordt georganiseerd .
 
 
 
 
 ## Arty Intelligence zelf
 Arty is een semi-pseudo bot die zichzelf op dag 1 introduceerde bij het -wegens Corona- volledig online HKU brede seminar “Arty Intelligence”. 
-[ [ inlay video “I am Arty”] ] https://youtu.be/m9kBIjJ28kw 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9kBIjJ28kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 De naam “Arty Intelligence” was natuurlijk een woordspeling met Artificial Intelligence en Artsy Fartsy (zie ook fig. xx de 1e hit van google’s AI op de zoekterm “Arty”). 
@@ -78,6 +78,7 @@ Thema van deze seminar voor studenten was Kunstmatige Intelligentie in alle kuns
 
 ## “Reading the room” en samenwerken tijdens een Corona lockdown 
 Het Arty Intelligence seminar werd praktisch educatief gezien gerealiseerd met als belangrijkste elementen het gebruik van Zoom, Discord en Mentimeter. Natuurlijk waren er voor de kunstmatige intelligentie allerlei tools die gebruikt werden, maar educatief gezien waren Zoom, Discord en Mentimeter de belangrijkste platforms. Het belang van die laatste 2 wordt hier toegelicht:
+
 
 ### Discord
 Discord fungeerde als een soort van Clubhuis van Arty met daarin verschillende ruimtes, die de studenten zelf konden inrichten en vormgeven. Leuk detail daarbij was dat Arty zelf en een paar andere bots ook aanwezig waren in deze Discord. Vanzelfsprekend waren er AI-gegenereerde emojis : )
