@@ -174,7 +174,7 @@ Het is indrukwekkend om te zien dat alle groepen een stuk documentatie wist in t
 
 
 ## Meer Arty Intelligence! 
-Mocht je na het lezen van dit verhaal geïnteresseerd zijn in die documentatie, of breder in het seminar en/of kunstmatige intelligentie voor de kunsten, neem dan vooral contact op met het Expertisecentrum voor Creatieve technologie en/of met [Than van Nispen](than.vannispen@hku.nl) . 
+Mocht je na het lezen van dit verhaal geïnteresseerd zijn in die [documentatie](#documentatie), of breder in het seminar en/of kunstmatige intelligentie voor de kunsten, neem dan vooral contact op met het Expertisecentrum voor Creatieve technologie en/of met [Than van Nispen](than.vannispen@hku.nl) . 
 
 
 {% include gallery caption="Arty Intelligence impressies uit deze Blogpost" %}
