@@ -97,7 +97,8 @@ Daarnaast waren sommige ‘quizes’ en vragen bedoeld om te meten of delen van 
 De vraag wat A.I. eigenlijk betekent lijkt weliswaar ogenschijnlijk een triviale, maar tegelijkertijd vormde zo’n vraag dan een bruggetje naar het grotere plaatje van Machine Learning, algoritmes en Deep Learning. 
 
 [[ paar slides van MentiMeter als illustratie ]] 
-mini-challenges → Een seminar over Big Data kan natuurlijk niet zonder “Data”.
+## mini-challenges 
+> Een seminar over Big Data kan natuurlijk niet zonder “Data”.
 Een ander manier voor betrokkenheid met de studenten was het inzetten van kleine ‘challenges’, of mini-opdrachten, waar de deelnemers punten mee konden scoren. 
 In tussentijdse overzichten (rond het einde van week 1) werd duidelijk wie er voorop liep. 
 Voor de docenten was het daarnaast zeer inzichtelijk om mee te krijgen welk van de studenten achter begon te raken en te benaderen via Discord en/of e-mail. 
@@ -169,7 +170,7 @@ De totale realisatie maakte dan gebruik van tenminste Zoom, Python, Wekinator, A
 
 
 ## Documentatie 
-Elke groep kon punten scoren (zie mini-challenges) middels een gedegen stukje documentatie. Iets van proces, iets van gebruikte middelen en technologie. 
+Elke groep kon punten scoren (zie [mini-challenges](#mini-challenges) middels een gedegen stukje documentatie. Iets van proces, iets van gebruikte middelen en technologie, iets van reflectie op wat er geleerd is. 
 Het is indrukwekkend om te zien dat alle groepen een stuk documentatie wist in te leveren, maar ook het niveau was naar het oordeel van de docenten erg goed!
 
 
