@@ -49,7 +49,7 @@ Het seminar is deels gebaseerd op [eerdere workshops](https://pong.hku.nl/blog/m
 
 
 ## Arty Intelligence zelf
-Arty is een semi-pseudo bot die zichzelf op dag 1 introduceerde bij het -wegens Corona- volledig online HKU brede seminar “Arty Intelligence”. 
+Arty is een semi-pseudo bot die zichzelf op dag 1 introduceerde bij het -wegens Corona- volledig online HKU brede seminar “Arty Intelligence”. Arty heeft een eigen webpagina en [e-mail adres](arty@hku.nl).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9kBIjJ28kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -119,6 +119,7 @@ Het ‘even bewegen en strekken’ na 45 minuten computertijd zat in zo’n chal
 >[https://www.billtjonesai.com/ ](https://www.billtjonesai.com/ )
 >[https://experiments.withgoogle.com/move-mirror/](https://experiments.withgoogle.com/move-mirror)
 >[https://semiconductor.withgoogle.com/ ](https://semiconductor.withgoogle.com/)
+
 Deze toepassingen werken het beste in Google Chrome. 
 
 
